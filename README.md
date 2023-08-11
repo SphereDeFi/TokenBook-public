@@ -9,16 +9,16 @@ A Token Book meant to store asset information used for collaborative projects wi
 All token images are fetched via /tokens/images/**[SYMBOL]**.svg
 
 > [!NOTE]
-> symbol must always be uppercase
+> symbol must always be upper case
 
 ### token data
 
 All token data is fetched via /tokens/data/**[chain]**.json
 
 > [!NOTE]
-> chain must always be lowercase
+> chain must always be lower case
 
-Token data data contains token:
+Token data contains token:
 
 - address,
 - symbol,
@@ -30,7 +30,7 @@ Tokens are stored in a
 `ts Record<address|symbol, { address: string, symbol: string, name: string, decimals: number, image: string }>` format
 
 > [!NOTE]
-> Both address & symbol need to be uppercase
+> address need to be lower case & symbol need to be upper case
 
 example:
 
