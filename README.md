@@ -1,2 +1,54 @@
 # TokenBook-public
+
 A Token Book meant to store asset information used for collaborative projects with Sphere Finance
+
+## Token
+
+### token images
+
+All token images are fetched via /tokens/images/**[SYMBOL]**.svg
+
+> [!NOTE]
+> symbol must always be uppercase
+
+### token data
+
+All token data is fetched via /tokens/data/**[chain]**.json
+
+> [!NOTE]
+> chain must always be lowercase
+
+Token data data contains token:
+
+- address,
+- symbol,
+- name,
+- decimals
+- image
+
+Tokens are stored in a
+`ts Record<address|symbol, { address: string, symbol: string, name: string, decimals: number, image: string }>` format
+
+> [!NOTE]
+> Both address & symbol need to be uppercase
+
+example:
+
+```JSON
+{
+    "0X82AF49447D8A07E3BD95BD0D56F35241523FBAB1": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "image": "https://raw.githubusercontent.com/WeaverSphere/TokenBook-public/main/tokens/images/WETH.svg",
+        "decimals": 18
+    },
+    "WETH": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "image": "https://raw.githubusercontent.com/WeaverSphere/TokenBook-public/main/tokens/images/WETH.svg",
+        "decimals": 18
+    }
+}
+```
