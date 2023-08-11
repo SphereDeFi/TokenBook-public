@@ -36,7 +36,7 @@ example:
 
 ```JSON
 {
-    "0X82AF49447D8A07E3BD95BD0D56F35241523FBAB1": {
+    "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
         "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
         "name": "Wrapped Ether",
         "symbol": "WETH",
@@ -49,6 +49,6 @@ example:
         "symbol": "WETH",
         "image": "https://raw.githubusercontent.com/WeaverSphere/TokenBook-public/main/tokens/images/WETH.svg",
         "decimals": 18
-    }
+    },
 }
 ```
