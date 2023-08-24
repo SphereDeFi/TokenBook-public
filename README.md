@@ -2,6 +2,18 @@
 
 A Token Book meant to store asset information used for collaborative projects with Sphere Finance
 
+## Contributing
+
+You are free to contribute new assets by making PRs.
+
+### Asset addition
+
+1. Introduce token **symbol** & **address** under /tokens/src/**[NETWORK]**
+2. Introduce token image as a .svg file. ex: STAR.svg
+
+> [!NOTE]
+> symbol must be stored upper case. Address must be a valid hex
+
 ## Token
 
 ### token images
