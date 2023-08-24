@@ -1,0 +1,24 @@
+{
+  "tokensAddresses": [
+    {
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    {
+      "symbol": "WBTC",
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095"
+    },
+    {
+      "symbol": "USDC",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607"
+    },
+    {
+      "symbol": "USDT",
+      "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+    },
+    {
+      "symbol": "OP",
+      "address": "0x4200000000000000000000000000000000000042"
+    }
+  ]
+}

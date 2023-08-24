@@ -1,0 +1,24 @@
+{
+  "tokensAddresses": [
+    {
+      "symbol": "WETH",
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+    },
+    {
+      "symbol": "WBTC",
+      "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab"
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+    },
+    {
+      "symbol": "USDT",
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+    },
+    {
+      "symbol": "WAVAX",
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+    }
+  ]
+}

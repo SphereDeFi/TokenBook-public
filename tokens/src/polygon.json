@@ -1,0 +1,40 @@
+{
+  "tokensAddresses": [
+    {
+      "symbol": "SPHERE",
+      "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7"
+    },
+    {
+      "symbol": "ylSPHERE",
+      "address": "0x4Af613f297ab00361D516454E5E46bc895889653"
+    },
+    {
+      "symbol": "WETH",
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+    },
+    {
+      "symbol": "WBTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+    },
+    {
+      "symbol": "USDC",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+    },
+    {
+      "symbol": "USDT",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+    },
+    {
+      "symbol": "WMATIC",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    },
+    {
+      "symbol": "stMATIC",
+      "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4"
+    },
+    {
+      "symbol": "CRV",
+      "address": "0x172370d5cd63279efa6d502dab29171933a610af"
+    }
+  ]
+}
