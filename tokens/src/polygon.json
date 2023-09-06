@@ -35,6 +35,22 @@
     {
       "symbol": "CRV",
       "address": "0x172370d5cd63279efa6d502dab29171933a610af"
+    },
+    {
+      "symbol": "CASH",
+      "address": "0x5D066D022EDE10eFa2717eD3D79f22F949F8C175"
+    },
+    {
+      "symbol": "TUSDC",
+      "address": "0x0D397F4515007AE4822703b74b9922508837A04E"
+    },
+    {
+      "symbol": "USDR",
+      "address": "0x40379a439D4F6795B6fc9aa5687dB461677A2dBa"
+    },
+    {
+      "symbol": "ERN",
+      "address": "0xC3a9a54c043f348027fffAac0F2F996123A19bF4"
     }
   ]
 }
