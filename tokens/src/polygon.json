@@ -51,6 +51,10 @@
     {
       "symbol": "ERN",
       "address": "0xC3a9a54c043f348027fffAac0F2F996123A19bF4"
+    },
+    {
+      "symbol": "wUSDR",
+      "address": "0x00e8c0E92eB3Ad88189E7125Ec8825eDc03Ab265"
     }
   ]
 }
