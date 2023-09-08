@@ -55,6 +55,10 @@
     {
       "symbol": "wUSDR",
       "address": "0x00e8c0E92eB3Ad88189E7125Ec8825eDc03Ab265"
+    },
+    {
+      "symbol": "DAI",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
     }
   ]
 }
