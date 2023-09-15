@@ -35,6 +35,34 @@
     {
       "symbol": "LUSD",
       "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b"
+    },
+    {
+      "symbol": "DAI",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    {
+      "symbol": "JRT",
+      "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e"
+    },
+    {
+      "symbol": "STR",
+      "address": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68"
+    },
+    {
+      "symbol": "USDCE",
+      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+    },
+    {
+      "symbol": "CHR",
+      "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851"
+    },
+    {
+      "symbol": "jEUR",
+      "address": "0xAD435674417520aeeED6b504bBe654d4f556182F"
+    },
+    {
+      "symbol": "SLIZ",
+      "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e"
     }
   ]
 }
