@@ -25,8 +25,16 @@
       "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326"
     },
     {
+      "symbol": "spFLDX",
+      "address": "0xE5b584f5f8B2872202433D56299e3867ba246C6E"
+    },
+    {
       "symbol": "GLCR",
       "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6"
+    },
+    {
+      "symbol": "spGLCR",
+      "address": "0xE98786B94520772DD9efcC670d72939e184A6198"
     }
   ]
 }

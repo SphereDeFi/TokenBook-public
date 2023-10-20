@@ -87,6 +87,14 @@
     {
       "symbol": "SATIN",
       "address": "0xb87493c96af9623c737e8aa7f0d4f6f3b49c64ba"
+    },
+    {
+      "symbol": "spSATIN",
+      "address": "0x3Ceb4c9CB783a7e7761f26E66133f7D84690728f"
+    },
+    {
+      "symbol": "bbawMATIC",
+      "address": "0xE4885Ed2818Cc9E840A25f94F9b2A28169D1AEA7"
     }
   ]
 }
