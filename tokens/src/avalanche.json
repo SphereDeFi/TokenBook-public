@@ -19,6 +19,14 @@
     {
       "symbol": "WAVAX",
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+    },
+    {
+      "symbol": "FLDX",
+      "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326"
+    },
+    {
+      "symbol": "GLCR",
+      "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6"
     }
   ]
 }
