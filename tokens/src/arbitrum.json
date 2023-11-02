@@ -91,6 +91,11 @@
   ],
   "dysonAddresses": [
     {
+      "address": "0x2e62d340CdC21848d444d6b454F89a541F9969d6",
+      "symbol": "arbiDysonChrV3ARBUSDCe5bpsVault ",
+      "composition": ["ARB", "USDC.e"]
+    },
+    {
       "address": "0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1",
       "symbol": "arbiDysonUniV3WETHGMX30BpsVault",
       "composition": ["WETH", "GMX"]
