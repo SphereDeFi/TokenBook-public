@@ -36,5 +36,12 @@
       "symbol": "spGLCR",
       "address": "0xE98786B94520772DD9efcC670d72939e184A6198"
     }
+  ],
+  "dysonAddresses": [
+    {
+      "address": "0x1D61a6593Fd6e93f4ce39a0f885dF3C7f7b261C2",
+      "symbol": "DysonAvaxGlcrspGlcrGlcrVault ",
+      "composition": ["spGLCR", "GLCR"]
+    }
   ]
 }

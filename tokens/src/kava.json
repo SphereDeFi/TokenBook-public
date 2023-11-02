@@ -12,5 +12,12 @@
       "symbol": "USDC",
       "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f"
     }
+  ],
+  "dysonAddresses": [
+    {
+      "address": "0x97472aD4f0489d1d6139119A217457Caaa74c732",
+      "symbol": "DysonKavaVaraspVARAVARAVault",
+      "composition": ["spVARA", "VARA"]
+    }
   ]
 }
