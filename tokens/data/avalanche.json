@@ -1,1 +1,142 @@
-{"0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab":{"address":"0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB","name":"Wrapped Ether","symbol":"WETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg","decimals":18},"WETH":{"address":"0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB","name":"Wrapped Ether","symbol":"WETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg","decimals":18},"0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab":{"address":"0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab","name":"Wrapped BTC","symbol":"WBTC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg","decimals":8},"WBTC":{"address":"0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab","name":"Wrapped BTC","symbol":"WBTC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg","decimals":8},"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e":{"address":"0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"USDC":{"address":"0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7":{"address":"0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7","name":"TetherToken","symbol":"USDT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg","decimals":6},"USDT":{"address":"0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7","name":"TetherToken","symbol":"USDT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg","decimals":6},"0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7":{"address":"0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7","name":"Wrapped AVAX","symbol":"WAVAX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WAVAX.svg","decimals":18},"WAVAX":{"address":"0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7","name":"Wrapped AVAX","symbol":"WAVAX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WAVAX.svg","decimals":18},"0x107d2b7c619202d994a4d044c762dd6f8e0c5326":{"address":"0x107D2b7C619202D994a4d044c762Dd6F8e0c5326","name":"Flair Dex Token","symbol":"FLDX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg","decimals":18},"FLDX":{"address":"0x107D2b7C619202D994a4d044c762Dd6F8e0c5326","name":"Flair Dex Token","symbol":"FLDX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg","decimals":18},"0xe5b584f5f8b2872202433d56299e3867ba246c6e":{"address":"0xE5b584f5f8B2872202433D56299e3867ba246C6E","name":"Sphere veFLDX Staker","symbol":"spFLDX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPFLDX.svg","decimals":18},"SPFLDX":{"address":"0xE5b584f5f8B2872202433D56299e3867ba246C6E","name":"Sphere veFLDX Staker","symbol":"spFLDX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPFLDX.svg","decimals":18},"0x3712871408a829c5cd4e86da1f4ce727efcd28f6":{"address":"0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6","name":"Glacier","symbol":"GLCR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GLCR.svg","decimals":18},"GLCR":{"address":"0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6","name":"Glacier","symbol":"GLCR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GLCR.svg","decimals":18},"0xe98786b94520772dd9efcc670d72939e184a6198":{"address":"0xE98786B94520772DD9efcC670d72939e184A6198","name":"Sphere veGLCR Staker","symbol":"spGLCR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPGLCR.svg","decimals":18},"SPGLCR":{"address":"0xE98786B94520772DD9efcC670d72939e184A6198","name":"Sphere veGLCR Staker","symbol":"spGLCR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPGLCR.svg","decimals":18},"0x59233edaa8b7469f56eac851769ae4a2adcc753e":{"address":"0x59233edaa8b7469f56eac851769ae4a2adcc753e","name":"StableV1 AMM - GLCR/spGLCR","symbol":"sAMM-GLCR/spGLCR ","image":"","decimals":18},"0x1d61a6593fd6e93f4ce39a0f885df3c7f7b261c2":{"address":"0x1D61a6593Fd6e93f4ce39a0f885dF3C7f7b261C2","name":"Dyson Glacier spGLCR/GLCR Vault","symbol":"DysonAvaxGlcrspGlcrGlcrVault ","image":"","decimals":18}}
+{
+  "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab": {
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "WETH": {
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab": {
+    "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg",
+    "decimals": 8
+  },
+  "WBTC": {
+    "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg",
+    "decimals": 8
+  },
+  "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e": {
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 6
+  },
+  "USDC": {
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 6
+  },
+  "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7": {
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "name": "TetherToken",
+    "symbol": "USDT",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+    "decimals": 6
+  },
+  "USDT": {
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "name": "TetherToken",
+    "symbol": "USDT",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+    "decimals": 6
+  },
+  "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WAVAX.svg",
+    "decimals": 18
+  },
+  "WAVAX": {
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WAVAX.svg",
+    "decimals": 18
+  },
+  "0x107d2b7c619202d994a4d044c762dd6f8e0c5326": {
+    "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
+    "name": "Flair Dex Token",
+    "symbol": "FLDX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg",
+    "decimals": 18
+  },
+  "FLDX": {
+    "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
+    "name": "Flair Dex Token",
+    "symbol": "FLDX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg",
+    "decimals": 18
+  },
+  "0xe5b584f5f8b2872202433d56299e3867ba246c6e": {
+    "address": "0xE5b584f5f8B2872202433D56299e3867ba246C6E",
+    "name": "Sphere veFLDX Staker",
+    "symbol": "spFLDX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPFLDX.svg",
+    "decimals": 18
+  },
+  "SPFLDX": {
+    "address": "0xE5b584f5f8B2872202433D56299e3867ba246C6E",
+    "name": "Sphere veFLDX Staker",
+    "symbol": "spFLDX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPFLDX.svg",
+    "decimals": 18
+  },
+  "0x3712871408a829c5cd4e86da1f4ce727efcd28f6": {
+    "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
+    "name": "Glacier",
+    "symbol": "GLCR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GLCR.svg",
+    "decimals": 18
+  },
+  "GLCR": {
+    "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
+    "name": "Glacier",
+    "symbol": "GLCR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GLCR.svg",
+    "decimals": 18
+  },
+  "0xe98786b94520772dd9efcc670d72939e184a6198": {
+    "address": "0xE98786B94520772DD9efcC670d72939e184A6198",
+    "name": "Sphere veGLCR Staker",
+    "symbol": "spGLCR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPGLCR.svg",
+    "decimals": 18
+  },
+  "SPGLCR": {
+    "address": "0xE98786B94520772DD9efcC670d72939e184A6198",
+    "name": "Sphere veGLCR Staker",
+    "symbol": "spGLCR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPGLCR.svg",
+    "decimals": 18
+  },
+  "0x59233edaa8b7469f56eac851769ae4a2adcc753e": {
+    "address": "0x59233edaa8b7469f56eac851769ae4a2adcc753e",
+    "name": "StableV1 AMM - GLCR/spGLCR",
+    "symbol": "sAMM-GLCR/spGLCR ",
+    "image": "",
+    "decimals": 18
+  },
+  "0x1d61a6593fd6e93f4ce39a0f885df3c7f7b261c2": {
+    "address": "0x1D61a6593Fd6e93f4ce39a0f885dF3C7f7b261C2",
+    "name": "Dyson Glacier spGLCR/GLCR Vault",
+    "symbol": "DysonAvaxGlcrspGlcrGlcrVault ",
+    "image": "",
+    "decimals": 18
+  }
+}

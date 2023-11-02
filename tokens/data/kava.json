@@ -1,1 +1,58 @@
-{"0xe1da44c0da55b075ae8e2e4b6986adc76ac77d73":{"address":"0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73","name":"Vara","symbol":"VARA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VARA.svg","decimals":18},"VARA":{"address":"0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73","name":"Vara","symbol":"VARA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VARA.svg","decimals":18},"0x489e54eec6c228a1457975eb150a7efb8350b5be":{"address":"0x489e54EEc6C228A1457975Eb150A7EFb8350b5bE","name":"Sphere veVARA Staker","symbol":"spVARA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPVARA.svg","decimals":18},"SPVARA":{"address":"0x489e54EEc6C228A1457975Eb150A7EFb8350b5bE","name":"Sphere veVARA Staker","symbol":"spVARA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPVARA.svg","decimals":18},"0xfa9343c3897324496a05fc75abed6bac29f8a40f":{"address":"0xfa9343c3897324496a05fc75abed6bac29f8a40f","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"USDC":{"address":"0xfa9343c3897324496a05fc75abed6bac29f8a40f","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"0xaf9ae147ca628e9da718f63da3e6e248b8606b7b":{"address":"0xaf9ae147ca628e9da718f63da3e6e248b8606b7b","name":"StableV1 AMM - spVARA/VARA","symbol":"sAMM-spVARA/VARA","image":"","decimals":18},"0x97472ad4f0489d1d6139119a217457caaa74c732":{"address":"0x97472aD4f0489d1d6139119A217457Caaa74c732","name":"Dyson Equilibre spVARA/VARA Vault","symbol":"DysonKavaVaraspVARAVARAVault","image":"","decimals":18}}
+{
+  "0xe1da44c0da55b075ae8e2e4b6986adc76ac77d73": {
+    "address": "0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73",
+    "name": "Vara",
+    "symbol": "VARA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VARA.svg",
+    "decimals": 18
+  },
+  "VARA": {
+    "address": "0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73",
+    "name": "Vara",
+    "symbol": "VARA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VARA.svg",
+    "decimals": 18
+  },
+  "0x489e54eec6c228a1457975eb150a7efb8350b5be": {
+    "address": "0x489e54EEc6C228A1457975Eb150A7EFb8350b5bE",
+    "name": "Sphere veVARA Staker",
+    "symbol": "spVARA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPVARA.svg",
+    "decimals": 18
+  },
+  "SPVARA": {
+    "address": "0x489e54EEc6C228A1457975Eb150A7EFb8350b5bE",
+    "name": "Sphere veVARA Staker",
+    "symbol": "spVARA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPVARA.svg",
+    "decimals": 18
+  },
+  "0xfa9343c3897324496a05fc75abed6bac29f8a40f": {
+    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 6
+  },
+  "USDC": {
+    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 6
+  },
+  "0xaf9ae147ca628e9da718f63da3e6e248b8606b7b": {
+    "address": "0xaf9ae147ca628e9da718f63da3e6e248b8606b7b",
+    "name": "StableV1 AMM - spVARA/VARA",
+    "symbol": "sAMM-spVARA/VARA",
+    "image": "",
+    "decimals": 18
+  },
+  "0x97472ad4f0489d1d6139119a217457caaa74c732": {
+    "address": "0x97472aD4f0489d1d6139119A217457Caaa74c732",
+    "name": "Dyson Equilibre spVARA/VARA Vault",
+    "symbol": "DysonKavaVaraspVARAVARAVault",
+    "image": "",
+    "decimals": 18
+  }
+}

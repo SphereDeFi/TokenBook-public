@@ -1,1 +1,86 @@
-{"0x4200000000000000000000000000000000000006":{"address":"0x4200000000000000000000000000000000000006","name":"Wrapped Ether","symbol":"WETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg","decimals":18},"WETH":{"address":"0x4200000000000000000000000000000000000006","name":"Wrapped Ether","symbol":"WETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg","decimals":18},"0x68f180fcce6836688e9084f035309e29bf0a2095":{"address":"0x68f180fcce6836688e9084f035309e29bf0a2095","name":"Wrapped BTC","symbol":"WBTC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg","decimals":8},"WBTC":{"address":"0x68f180fcce6836688e9084f035309e29bf0a2095","name":"Wrapped BTC","symbol":"WBTC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg","decimals":8},"0x7f5c764cbc14f9669b88837ca1490cca17c31607":{"address":"0x7f5c764cbc14f9669b88837ca1490cca17c31607","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"USDC":{"address":"0x7f5c764cbc14f9669b88837ca1490cca17c31607","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58":{"address":"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58","name":"Tether USD","symbol":"USDT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg","decimals":6},"USDT":{"address":"0x94b008aa00579c1307b0ef2c499ad98a8ce58e58","name":"Tether USD","symbol":"USDT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg","decimals":6},"0x4200000000000000000000000000000000000042":{"address":"0x4200000000000000000000000000000000000042","name":"Optimism","symbol":"OP","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/OP.svg","decimals":18},"OP":{"address":"0x4200000000000000000000000000000000000042","name":"Optimism","symbol":"OP","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/OP.svg","decimals":18},"0x586e2f2cfbe1c6a072ad1d290af8823f0fedf888":{"address":"0x586e2F2CFBE1c6A072aD1D290af8823F0FedF888","name":"Dyson UniV3 WETH/USDC 0.05% Vault","symbol":"optiDysonUniV3WETHUSDC5BpsVault","image":"","decimals":18},"0xdf8e9ff8b495f10fa42f0c0ec01627278e944202":{"address":"0xDF8E9fF8b495f10FA42F0c0Ec01627278E944202","name":"Dyson UniV3 WETH/OP 0.30% Vault","symbol":"optiDysonUniV3WETHOP30BpsVault","image":"","decimals":18}}
+{
+  "0x4200000000000000000000000000000000000006": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "WETH": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "0x68f180fcce6836688e9084f035309e29bf0a2095": {
+    "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg",
+    "decimals": 8
+  },
+  "WBTC": {
+    "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg",
+    "decimals": 8
+  },
+  "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
+    "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 6
+  },
+  "USDC": {
+    "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 6
+  },
+  "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
+    "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+    "decimals": 6
+  },
+  "USDT": {
+    "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+    "decimals": 6
+  },
+  "0x4200000000000000000000000000000000000042": {
+    "address": "0x4200000000000000000000000000000000000042",
+    "name": "Optimism",
+    "symbol": "OP",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/OP.svg",
+    "decimals": 18
+  },
+  "OP": {
+    "address": "0x4200000000000000000000000000000000000042",
+    "name": "Optimism",
+    "symbol": "OP",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/OP.svg",
+    "decimals": 18
+  },
+  "0x586e2f2cfbe1c6a072ad1d290af8823f0fedf888": {
+    "address": "0x586e2F2CFBE1c6A072aD1D290af8823F0FedF888",
+    "name": "Dyson UniV3 WETH/USDC 0.05% Vault",
+    "symbol": "optiDysonUniV3WETHUSDC5BpsVault",
+    "image": "",
+    "decimals": 18
+  },
+  "0xdf8e9ff8b495f10fa42f0c0ec01627278e944202": {
+    "address": "0xDF8E9fF8b495f10FA42F0c0Ec01627278E944202",
+    "name": "Dyson UniV3 WETH/OP 0.30% Vault",
+    "symbol": "optiDysonUniV3WETHOP30BpsVault",
+    "image": "",
+    "decimals": 18
+  }
+}
