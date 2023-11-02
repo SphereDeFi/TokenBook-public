@@ -88,5 +88,142 @@
       "symbol": "ETSGAMMA",
       "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453"
     }
+  ],
+  "dysonAddresses": [
+    {
+      "address": "0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1",
+      "symbol": "arbiDysonUniV3WETHGMX30BpsVault",
+      "composition": ["WETH", "GMX"]
+    },
+    {
+      "address": "0x9c9790C82859DB18ce974FA5e9bD2927C845B1D4",
+      "symbol": "arbiDysonUniV3WETHUSDT5BpsVault",
+      "composition": ["WETH", "USDT"]
+    },
+    {
+      "address": "0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1",
+      "symbol": "arbiDysonUniV3WETHUSDC30bpsVault",
+      "composition": ["WETH", "USDC.e"]
+    },
+    {
+      "address": "0x17831B2d149BD43fbdE0EB1b727F86aBBd5053fD",
+      "symbol": "arbiDysonUniV3USDTUSC5bpsVault",
+      "composition": ["USDT", "USDC.e"]
+    },
+    {
+      "address": "0xb33775911fc0375538c2D90733f749AD8A203e00",
+      "symbol": "arbiDysonUniV3WBTCWETH5BpsVault",
+      "composition": ["WBTC", "WETH"]
+    },
+    {
+      "address": "0x505A98d9aFda51D3dB779e2aA3941CbFF429BE7a",
+      "symbol": "arbiDysonUniV3WETHUSC5bpsVault",
+      "composition": ["WETH", "USDC.e"]
+    },
+    {
+      "address": "0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c",
+      "symbol": "arbiDysonChrV3WETHUSDT5bpsVault",
+      "composition": ["WETH", "USDT"]
+    },
+    {
+      "address": "0x9a56f822babfbfdc2f25cb34eb952ff38af869d8",
+      "symbol": "arbiDysonChrV3WETHUSDCe5bpsVault",
+      "composition": ["WETH", "USDC.e"]
+    },
+    {
+      "address": "0x951966d474f13260f90a3E770b53589013d49241",
+      "symbol": "arbiDysonChrV3WETHARB5bpsVault",
+      "composition": ["WETH", "ARB"]
+    },
+    {
+      "address": "0xd416063128bf5A81D20547adaDf29b74440D6699",
+      "symbol": "arbiDysonChrV3STARUSDC1bpsVault",
+      "composition": ["STAR", "USDC.e"]
+    },
+    {
+      "address": "0xaeD0E3CEC057Ca82cd562c358a91aEdd2510eCEc",
+      "symbol": "DysonArbiSolidLizardUSDCUSDTVault",
+      "composition": ["USDT", "USDC"]
+    },
+    {
+      "address": "0xe5103Cc276370dD4012DAA6304C3f11187da3f85",
+      "symbol": "DysonArbiSolidLizardAGEURUSDCVault",
+      "composition": ["AGEUR", "USDC"]
+    },
+    {
+      "address": "0xC2a16f7164B98CD6AcFFbcBd46defc6AA3B95A59",
+      "symbol": "DysonArbiSolidLizardLUSDUSDTVault",
+      "composition": ["LUSD", "USDT"]
+    },
+    {
+      "address": "0xaddB5609d0524d5FB65E626dDD135F5798d1748A",
+      "symbol": "DysonArbiSolidLizardLUSDUSDCVault",
+      "composition": ["LUSD", "USDC"]
+    },
+    {
+      "address": "0xE42eA4E3EF0dB0023276612b9b243735287F649D",
+      "symbol": "DysonArbiSolidLizardUSDPUSDCVault",
+      "composition": ["USD+", "USDC"]
+    },
+    {
+      "address": "0x400464D212853cf503D2bBE352A2ae068D74154D",
+      "symbol": "DysonArbiSolidLizardUSDPETSGammaVault",
+      "composition": ["USD+", "ETSGAMMA"]
+    },
+    {
+      "address": "0xc8C8EB3C3e8930EC3Be0EE1C7F96Cf56ed9de0f9",
+      "symbol": "DysonArbiSolidLizardMAIUSDCVault",
+      "composition": ["MAI", "USDC"]
+    },
+    {
+      "address": "0x49405ac1eAb6A420e046f1c715B679E67d22a565",
+      "symbol": "DysonArbiSolidLizardDOLAUSDCVault",
+      "composition": ["DOLA", "USDC"]
+    },
+    {
+      "address": "0xfD9Ab363b0CF270287F61ec3ed7C0FcA50feaF9e",
+      "symbol": "DysonArbiSolidLizardLUSDDAIVault",
+      "composition": ["LUSD", "DAI"]
+    },
+    {
+      "address": "0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e",
+      "symbol": "DysonArbiSolidLizardWETHUSDCVault",
+      "composition": ["WETH", "USDC"]
+    },
+    {
+      "address": "0x5F159730712119CB399CEE85cE678d317Ee68260",
+      "symbol": "DysonArbiSolidLizardDAIUSDCVault",
+      "composition": ["DAI", "USDC"]
+    },
+    {
+      "address": "0xDcfFe790e6eFDa3331b9cDa9d21f1401e25f6353",
+      "symbol": "DysonArbiSolidLizardDAIUSDTVault",
+      "composition": ["DAI", "USDT"]
+    },
+    {
+      "address": "0xCA669649c7ec9F90A57C739C4bDf9d02c9fAFE89",
+      "symbol": "DysonArbiSolidLizardSLIZspSLIZVault",
+      "composition": ["SLIZ", "spSLIZ"]
+    },
+    {
+      "address": "0x6917863C148beB8700a3CC48A0C26095f90D0195",
+      "symbol": "DysonArbiSolidLizardJRTWETHVault",
+      "composition": ["JRT", "WETH"]
+    },
+    {
+      "address": "0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7",
+      "symbol": "DysonArbiSterlingWSTETHWETHVault",
+      "composition": ["WSTETH", "WETH"]
+    },
+    {
+      "address": "0x6f3A405f8e67ef5f6b1655E13eAb26e344CD4AE0",
+      "symbol": "DysonArbiSterlingspSTRSTRVault",
+      "composition": ["spSTR", "STR"]
+    },
+    {
+      "address": "0x64398ebD6e53423d30841e1b68993C95E6a78CE3",
+      "symbol": "DysonArbiSolidLizardjEURAGEURVault",
+      "composition": ["jEUR", "agEUR"]
+    }
   ]
 }
