@@ -167,6 +167,11 @@
       "address": "0x18661c2527220abe021f5b52351d5c4210e0e2c6",
       "symbol": "Dyson Balancer stMATIC-bbaWMATIC Vault",
       "composition": ["stMATIC", "bbaWMATIC"]
+    },
+    {
+      "address": "0xdc342a4c1108a2a1f34a3036a40e04627b923067",
+      "symbol": "vAMM-CASH/SATIN",
+      "composition": ["CASH", "SATIN"]
     }
   ]
 }
