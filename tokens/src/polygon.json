@@ -149,9 +149,19 @@
       "composition": ["GNS"]
     },
     {
+      "address": "0x36a7a1ee03dd9f5ee9363f41ae05bd15a8f1b85f",
+      "symbol": "sAMM-spSATIN/vAMM-CASH/SATIN",
+      "composition": ["spSATIN", "SATIN"]
+    },
+    {
       "address": "0xcac1c87Ca48C860De5fD71431d002a0c06b6Ede4",
       "symbol": "DysonMaticSatinSpSatinSatinLPVault",
       "composition": ["spSATIN", "SATIN"]
+    },
+    {
+      "address": "0x216690738aac4aa0c4770253ca26a28f0115c595",
+      "symbol": "stMATIC-bb-a-WMATIC-BPT",
+      "composition": ["stMATIC", "bbaWMATIC"]
     },
     {
       "address": "0x18661c2527220abe021f5b52351d5c4210e0e2c6",

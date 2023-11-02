@@ -23,6 +23,11 @@
   ],
   "dysonAddresses": [
     {
+      "address": "0x618f9eb0e1a698409621f4f487b563529f003643",
+      "symbol": "sAMM-USDT/USDC",
+      "composition": ["USDT", "USDC"]
+    },
+    {
       "address": "0xD7f442f4fAD9C5C58425AC69C60670C05eE7cf9d",
       "symbol": "Dyson Thena USDT/USDC Vault",
       "composition": ["USDT", "USDC"]

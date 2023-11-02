@@ -39,6 +39,11 @@
   ],
   "dysonAddresses": [
     {
+      "address": "0x59233edaa8b7469f56eac851769ae4a2adcc753e",
+      "symbol": "sAMM-GLCR/spGLCR ",
+      "composition": ["spGLCR", "GLCR"]
+    },
+    {
       "address": "0x1D61a6593Fd6e93f4ce39a0f885dF3C7f7b261C2",
       "symbol": "DysonAvaxGlcrspGlcrGlcrVault ",
       "composition": ["spGLCR", "GLCR"]

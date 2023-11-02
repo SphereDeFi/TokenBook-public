@@ -141,9 +141,19 @@
       "composition": ["STAR", "USDC.e"]
     },
     {
+      "address": "0xC9dF93497B1852552F2200701cE58C236cC0378C",
+      "symbol": "sAMM-USDT/USDC",
+      "composition": ["USDT", "USDC"]
+    },
+    {
       "address": "0xaeD0E3CEC057Ca82cd562c358a91aEdd2510eCEc",
       "symbol": "DysonArbiSolidLizardUSDCUSDTVault",
       "composition": ["USDT", "USDC"]
+    },
+    {
+      "address": "0x5cd95bc186E41419e6B48a0153833C8105781292",
+      "symbol": "vAMM-agEUR/USDC",
+      "composition": ["AGEUR", "USDC"]
     },
     {
       "address": "0xe5103Cc276370dD4012DAA6304C3f11187da3f85",
@@ -151,9 +161,19 @@
       "composition": ["AGEUR", "USDC"]
     },
     {
+      "address": "0x76306492d938ae46df657c006e642b4d31dc6bd9",
+      "symbol": "sAMM-LUSD/USDT",
+      "composition": ["LUSD", "USDT"]
+    },
+    {
       "address": "0xC2a16f7164B98CD6AcFFbcBd46defc6AA3B95A59",
       "symbol": "DysonArbiSolidLizardLUSDUSDTVault",
       "composition": ["LUSD", "USDT"]
+    },
+    {
+      "address": "0xB1E9b823295B3C69ac651C05D987B67189ff20AD",
+      "symbol": "sAMM-LUSD/USDC",
+      "composition": ["LUSD", "USDC"]
     },
     {
       "address": "0xaddB5609d0524d5FB65E626dDD135F5798d1748A",
@@ -161,9 +181,19 @@
       "composition": ["LUSD", "USDC"]
     },
     {
+      "address": "0x219fbc3ed20152a9501dDAA47F2a8C193E32D0C6",
+      "symbol": "sAMM-USD+/USDC",
+      "composition": ["USD+", "USDC"]
+    },
+    {
       "address": "0xE42eA4E3EF0dB0023276612b9b243735287F649D",
       "symbol": "DysonArbiSolidLizardUSDPUSDCVault",
       "composition": ["USD+", "USDC"]
+    },
+    {
+      "address": "0x97e5f60fA17816011039B908C19Fa4B43DE73731",
+      "symbol": "sAMM-ETS Gamma/USD+",
+      "composition": ["USD+", "ETSGAMMA"]
     },
     {
       "address": "0x400464D212853cf503D2bBE352A2ae068D74154D",
@@ -171,9 +201,19 @@
       "composition": ["USD+", "ETSGAMMA"]
     },
     {
+      "address": "0xb2e5cbe39c92afb14cb8dbadcc138ea4a8614bae",
+      "symbol": "sAMM-MAI/USDC",
+      "composition": ["MAI", "USDC"]
+    },
+    {
       "address": "0xc8C8EB3C3e8930EC3Be0EE1C7F96Cf56ed9de0f9",
       "symbol": "DysonArbiSolidLizardMAIUSDCVault",
       "composition": ["MAI", "USDC"]
+    },
+    {
+      "address": "0xdf58c5f73ea1c9003abfeb9194eb817d256cb3ad",
+      "symbol": "sAMM-DOLA/USDC",
+      "composition": ["DOLA", "USDC"]
     },
     {
       "address": "0x49405ac1eAb6A420e046f1c715B679E67d22a565",
@@ -181,9 +221,19 @@
       "composition": ["DOLA", "USDC"]
     },
     {
+      "address": "0x99fe59026A627e03ff34B9F2FA08bA70d7a703f9",
+      "symbol": "sAMM-LUSD/DAI",
+      "composition": ["LUSD", "DAI"]
+    },
+    {
       "address": "0xfD9Ab363b0CF270287F61ec3ed7C0FcA50feaF9e",
       "symbol": "DysonArbiSolidLizardLUSDDAIVault",
       "composition": ["LUSD", "DAI"]
+    },
+    {
+      "address": "0xe20F93279fF3538b1ad70D11bA160755625e3400",
+      "symbol": "vAMM-WETH/USDC",
+      "composition": ["WETH", "USDC"]
     },
     {
       "address": "0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e",
@@ -191,9 +241,19 @@
       "composition": ["WETH", "USDC"]
     },
     {
+      "address": "0x07d7f291e731a41d3f0ea4f1ae5b6d920ffb3fe0",
+      "symbol": "sAMM-DAI/USDC",
+      "composition": ["DAI", "USDC"]
+    },
+    {
       "address": "0x5F159730712119CB399CEE85cE678d317Ee68260",
       "symbol": "DysonArbiSolidLizardDAIUSDCVault",
       "composition": ["DAI", "USDC"]
+    },
+    {
+      "address": "0x15b9d20bcaa4f65d9004d2bebac4058445fd5285",
+      "symbol": "sAMM-DAI/USDT",
+      "composition": ["DAI", "USDT"]
     },
     {
       "address": "0xDcfFe790e6eFDa3331b9cDa9d21f1401e25f6353",
@@ -201,9 +261,19 @@
       "composition": ["DAI", "USDT"]
     },
     {
+      "address": "0x6efef13c68959cea3293669f9294d826ccc31058",
+      "symbol": "sAMM-SLIZ/spSLIZ",
+      "composition": ["SLIZ", "spSLIZ"]
+    },
+    {
       "address": "0xCA669649c7ec9F90A57C739C4bDf9d02c9fAFE89",
       "symbol": "DysonArbiSolidLizardSLIZspSLIZVault",
       "composition": ["SLIZ", "spSLIZ"]
+    },
+    {
+      "address": "0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841",
+      "symbol": "vAMM-JRT/WETH",
+      "composition": ["JRT", "WETH"]
     },
     {
       "address": "0x6917863C148beB8700a3CC48A0C26095f90D0195",
@@ -211,14 +281,29 @@
       "composition": ["JRT", "WETH"]
     },
     {
+      "address": "0x70717296353f0CDAF1b9A5626455dEf6b6cF63a9",
+      "symbol": "sAMM-wstETH/WETH",
+      "composition": ["WSTETH", "WETH"]
+    },
+    {
       "address": "0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7",
       "symbol": "DysonArbiSterlingWSTETHWETHVault",
       "composition": ["WSTETH", "WETH"]
     },
     {
+      "address": "0x4db060E95036A4ca1CEAa2D14D9F0bB6BD6FFb52",
+      "symbol": "sAMM-spSTR/STR",
+      "composition": ["spSTR", "STR"]
+    },
+    {
       "address": "0x6f3A405f8e67ef5f6b1655E13eAb26e344CD4AE0",
       "symbol": "DysonArbiSterlingspSTRSTRVault",
       "composition": ["spSTR", "STR"]
+    },
+    {
+      "address": "0xacc13137378c2a63b550b5370df97c4d97a032f4",
+      "symbol": "sAMM-jEUR/agEUR",
+      "composition": ["jEUR", "agEUR"]
     },
     {
       "address": "0x64398ebD6e53423d30841e1b68993C95E6a78CE3",

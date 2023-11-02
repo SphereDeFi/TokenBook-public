@@ -15,6 +15,11 @@
   ],
   "dysonAddresses": [
     {
+      "address": "0xaf9ae147ca628e9da718f63da3e6e248b8606b7b",
+      "symbol": "sAMM-spVARA/VARA",
+      "composition": ["spVARA", "VARA"]
+    },
+    {
       "address": "0x97472aD4f0489d1d6139119A217457Caaa74c732",
       "symbol": "DysonKavaVaraspVARAVARAVault",
       "composition": ["spVARA", "VARA"]
