@@ -87,6 +87,22 @@
     {
       "symbol": "ETSGAMMA",
       "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453"
+    },
+    {
+      "symbol": "agEUR",
+      "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7"
+    },
+    {
+      "symbol": "USD+",
+      "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
+    },
+    {
+      "symbol": "MAI",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d"
+    },
+    {
+      "symbol": "DOLA",
+      "address": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6"
     }
   ],
   "dysonAddresses": [
