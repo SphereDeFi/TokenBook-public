@@ -169,6 +169,7 @@
     },
     "0x3b443e9b9b7f340c7b1417abfdc64132341873d4": {
         "address": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
+        "mirror": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68",
         "name": "Sphere veSTR Staker",
         "symbol": "spSTR",
         "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg",
@@ -176,6 +177,7 @@
     },
     "SPSTR": {
         "address": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
+        "mirror": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68",
         "name": "Sphere veSTR Staker",
         "symbol": "spSTR",
         "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg",
@@ -218,6 +220,7 @@
     },
     "0xfea2906087d82bd8da630e7e2c7d9a4deb061097": {
         "address": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
+        "mirror": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
         "name": "Sphere veCHR Staker",
         "symbol": "spCHR",
         "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg",
@@ -225,6 +228,7 @@
     },
     "SPCHR": {
         "address": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
+        "mirror": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
         "name": "Sphere veCHR Staker",
         "symbol": "spCHR",
         "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg",
@@ -260,6 +264,7 @@
     },
     "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3": {
         "address": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
+        "mirror": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
         "name": "Sphere veSLIZ Staker",
         "symbol": "spSLIZ",
         "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg",
@@ -267,6 +272,7 @@
     },
     "SPSLIZ": {
         "address": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
+        "mirror": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
         "name": "Sphere veSLIZ Staker",
         "symbol": "spSLIZ",
         "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg",
