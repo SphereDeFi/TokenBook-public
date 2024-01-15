@@ -1,1 +1,712 @@
-{"0x82af49447d8a07e3bd95bd0d56f35241523fbab1":{"address":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1","name":"Wrapped Ether","symbol":"WETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg","decimals":18},"WETH":{"address":"0x82af49447d8a07e3bd95bd0d56f35241523fbab1","name":"Wrapped Ether","symbol":"WETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg","decimals":18},"0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f":{"address":"0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f","name":"Wrapped BTC","symbol":"WBTC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg","decimals":8},"WBTC":{"address":"0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f","name":"Wrapped BTC","symbol":"WBTC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg","decimals":8},"0xaf88d065e77c8cc2239327c5edb3a432268e5831":{"address":"0xaf88d065e77c8cC2239327C5EDb3A432268e5831","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"USDC":{"address":"0xaf88d065e77c8cC2239327C5EDb3A432268e5831","name":"USD Coin","symbol":"USDC","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg","decimals":6},"0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9":{"address":"0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9","name":"Tether USD","symbol":"USDT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg","decimals":6},"USDT":{"address":"0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9","name":"Tether USD","symbol":"USDT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg","decimals":6},"0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a":{"address":"0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a","name":"GMX","symbol":"GMX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GMX.svg","decimals":18},"GMX":{"address":"0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a","name":"GMX","symbol":"GMX","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GMX.svg","decimals":18},"0x912ce59144191c1204e64559fe8253a0e49e6548":{"address":"0x912CE59144191C1204E64559FE8253a0e49E6548","name":"Arbitrum","symbol":"ARB","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ARB.svg","decimals":18},"ARB":{"address":"0x912CE59144191C1204E64559FE8253a0e49E6548","name":"Arbitrum","symbol":"ARB","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ARB.svg","decimals":18},"0xc19669a405067927865b40ea045a2baabbbe57f5":{"address":"0xC19669A405067927865B40Ea045a2baabbbe57f5","name":"STAR","symbol":"STAR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg","decimals":18},"STAR":{"address":"0xC19669A405067927865B40Ea045a2baabbbe57f5","name":"STAR","symbol":"STAR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg","decimals":18},"0x5979d7b546e38e414f7e9822514be443a4800529":{"address":"0x5979D7b546E38E414F7E9822514be443A4800529","name":"Wrapped liquid staked Ether 2.0","symbol":"WSTETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WSTETH.svg","decimals":18},"WSTETH":{"address":"0x5979D7b546E38E414F7E9822514be443A4800529","name":"Wrapped liquid staked Ether 2.0","symbol":"WSTETH","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WSTETH.svg","decimals":18},"0x93b346b6bc2548da6a1e7d98e9a421b42541425b":{"address":"0x93b346b6bc2548da6a1e7d98e9a421b42541425b","name":"LUSD Stablecoin","symbol":"LUSD","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/LUSD.svg","decimals":18},"LUSD":{"address":"0x93b346b6bc2548da6a1e7d98e9a421b42541425b","name":"LUSD Stablecoin","symbol":"LUSD","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/LUSD.svg","decimals":18},"0xda10009cbd5d07dd0cecc66161fc93d7c9000da1":{"address":"0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1","name":"Dai Stablecoin","symbol":"DAI","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DAI.svg","decimals":18},"DAI":{"address":"0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1","name":"Dai Stablecoin","symbol":"DAI","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DAI.svg","decimals":18},"0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e":{"address":"0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e","name":"Jarvis Reward Token","symbol":"JRT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JRT.svg","decimals":18},"JRT":{"address":"0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e","name":"Jarvis Reward Token","symbol":"JRT","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JRT.svg","decimals":18},"0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68":{"address":"0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68","name":"Sterling","symbol":"STR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STR.svg","decimals":18},"STR":{"address":"0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68","name":"Sterling","symbol":"STR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STR.svg","decimals":18},"0x3b443e9b9b7f340c7b1417abfdc64132341873d4":{"address":"0x3b443e9b9b7f340c7b1417abfdc64132341873d4","name":"Sphere veSTR Staker","symbol":"spSTR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg","decimals":18},"SPSTR":{"address":"0x3b443e9b9b7f340c7b1417abfdc64132341873d4","name":"Sphere veSTR Staker","symbol":"spSTR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg","decimals":18},"0xff970a61a04b1ca14834a43f5de4533ebddb5cc8":{"address":"0xff970a61a04b1ca14834a43f5de4533ebddb5cc8","name":"USD Coin (Arb1)","symbol":"USDCe","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDCE.svg","decimals":6},"USDC.E":{"address":"0xff970a61a04b1ca14834a43f5de4533ebddb5cc8","name":"USD Coin (Arb1)","symbol":"USDC.e","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.E.svg","decimals":6},"USDCE":{"address":"0xff970a61a04b1ca14834a43f5de4533ebddb5cc8","name":"USD Coin (Arb1)","symbol":"USDCe","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDCE.svg","decimals":6},"0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851":{"address":"0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851","name":"CHRONOS","symbol":"CHR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/CHR.svg","decimals":18},"CHR":{"address":"0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851","name":"CHRONOS","symbol":"CHR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/CHR.svg","decimals":18},"0xfea2906087d82bd8da630e7e2c7d9a4deb061097":{"address":"0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097","name":"Sphere veCHR Staker","symbol":"spCHR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg","decimals":18},"SPCHR":{"address":"0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097","name":"Sphere veCHR Staker","symbol":"spCHR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg","decimals":18},"0xad435674417520aeeed6b504bbe654d4f556182f":{"address":"0xAD435674417520aeeED6b504bBe654d4f556182F","name":"Jarvis Synthetic Euro","symbol":"jEUR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JEUR.svg","decimals":18},"JEUR":{"address":"0xAD435674417520aeeED6b504bBe654d4f556182F","name":"Jarvis Synthetic Euro","symbol":"jEUR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JEUR.svg","decimals":18},"0x463913d3a3d3d291667d53b8325c598eb88d3b0e":{"address":"0x463913d3a3d3d291667d53b8325c598eb88d3b0e","name":"SolidLizard dex token","symbol":"SLIZ","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SLIZ.svg","decimals":18},"SLIZ":{"address":"0x463913d3a3d3d291667d53b8325c598eb88d3b0e","name":"SolidLizard dex token","symbol":"SLIZ","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SLIZ.svg","decimals":18},"0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3":{"address":"0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3","name":"Sphere veSLIZ Staker","symbol":"spSLIZ","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg","decimals":18},"SPSLIZ":{"address":"0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3","name":"Sphere veSLIZ Staker","symbol":"spSLIZ","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg","decimals":18},"0x813ffcc4af3e810e6b447235cc88a02f00454453":{"address":"0x813ffcc4af3e810e6b447235cc88a02f00454453","name":"ETS Gamma","symbol":"ETSGAMMA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETSGAMMA.svg","decimals":6},"ETS GAMMA":{"address":"0x813ffcc4af3e810e6b447235cc88a02f00454453","name":"ETS Gamma","symbol":"ETS GAMMA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETS GAMMA.svg","decimals":6},"ETSGAMMA":{"address":"0x813ffcc4af3e810e6b447235cc88a02f00454453","name":"ETS Gamma","symbol":"ETSGAMMA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETSGAMMA.svg","decimals":6},"0xfa5ed56a203466cbbc2430a43c66b9d8723528e7":{"address":"0xfa5ed56a203466cbbc2430a43c66b9d8723528e7","name":"agEUR","symbol":"agEUR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AGEUR.svg","decimals":18},"AGEUR":{"address":"0xfa5ed56a203466cbbc2430a43c66b9d8723528e7","name":"agEUR","symbol":"agEUR","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AGEUR.svg","decimals":18},"0xe80772eaf6e2e18b651f160bc9158b2a5cafca65":{"address":"0xe80772eaf6e2e18b651f160bc9158b2a5cafca65","name":"USD+","symbol":"USD+","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg","decimals":6},"USD+":{"address":"0xe80772eaf6e2e18b651f160bc9158b2a5cafca65","name":"USD+","symbol":"USD+","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg","decimals":6},"0x3f56e0c36d275367b8c502090edf38289b3dea0d":{"address":"0x3f56e0c36d275367b8c502090edf38289b3dea0d","name":"Mai Stablecoin","symbol":"MAI","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/MAI.svg","decimals":18},"MAI":{"address":"0x3f56e0c36d275367b8c502090edf38289b3dea0d","name":"Mai Stablecoin","symbol":"MAI","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/MAI.svg","decimals":18},"0x6a7661795c374c0bfc635934efaddff3a7ee23b6":{"address":"0x6a7661795c374c0bfc635934efaddff3a7ee23b6","name":"Dola USD Stablecoin","symbol":"DOLA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DOLA.svg","decimals":18},"DOLA":{"address":"0x6a7661795c374c0bfc635934efaddff3a7ee23b6","name":"Dola USD Stablecoin","symbol":"DOLA","image":"https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DOLA.svg","decimals":18},"0x2e62d340cdc21848d444d6b454f89a541f9969d6":{"address":"0x2e62d340CdC21848d444d6b454F89a541F9969d6","name":"Dyson ChrV3 ARB/USDC.e 0.05% Vault","symbol":"arbiDysonChrV3ARBUSDCe5bpsVault ","image":"","decimals":18},"0x6c7e1caf8af916b7f0a493dc89148bb3f813d6d1":{"address":"0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1","name":"Dyson UniV3 WETH/GMX 0.30% Vault","symbol":"arbiDysonUniV3WETHGMX30BpsVault","image":"","decimals":18},"0x9c9790c82859db18ce974fa5e9bd2927c845b1d4":{"address":"0x9c9790C82859DB18ce974FA5e9bD2927C845B1D4","name":"Dyson UniV3 WETH/USDT 0.05% Vault","symbol":"arbiDysonUniV3WETHUSDT5BpsVault","image":"","decimals":18},"0xb5a3e0f1c9b3b9b8c478edb8c62043b2beb7edf1":{"address":"0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1","name":"Dyson UniV3 WETH/USDC 0.30% Vault","symbol":"arbiDysonUniV3WETHUSDC30bpsVault","image":"","decimals":18},"0x17831b2d149bd43fbde0eb1b727f86abbd5053fd":{"address":"0x17831B2d149BD43fbdE0EB1b727F86aBBd5053fD","name":"Dyson UniV3 USDT/USDC 0.05% Vault","symbol":"arbiDysonUniV3USDTUSC5bpsVault","image":"","decimals":18},"0xb33775911fc0375538c2d90733f749ad8a203e00":{"address":"0xb33775911fc0375538c2D90733f749AD8A203e00","name":"Dyson UniV3 WBTC/WETH 0.05% Vault","symbol":"arbiDysonUniV3WBTCWETH5BpsVault","image":"","decimals":18},"0x505a98d9afda51d3db779e2aa3941cbff429be7a":{"address":"0x505A98d9aFda51D3dB779e2aA3941CbFF429BE7a","name":"Dyson UniV3 WETH/USDC 0.05% Vault","symbol":"arbiDysonUniV3WETHUSC5bpsVault","image":"","decimals":18},"0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c":{"address":"0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c","name":"Dyson ChrV3 WETH/USDT 0.05% Vault","symbol":"arbiDysonChrV3WETHUSDT5bpsVault","image":"","decimals":18},"0x9a56f822babfbfdc2f25cb34eb952ff38af869d8":{"address":"0x9a56f822babfbfdc2f25cb34eb952ff38af869d8","name":"Dyson ChrV3 WETH/USDC.e 0.05% Vault","symbol":"arbiDysonChrV3WETHUSDCe5bpsVault","image":"","decimals":18},"0x951966d474f13260f90a3e770b53589013d49241":{"address":"0x951966d474f13260f90a3E770b53589013d49241","name":"Dyson ChrV3 WETH/ARB 0.05% Vault","symbol":"arbiDysonChrV3WETHARB5bpsVault","image":"","decimals":18},"0xd416063128bf5a81d20547adadf29b74440d6699":{"address":"0xd416063128bf5A81D20547adaDf29b74440D6699","name":"Dyson ChrV3 STAR/USDC 0.01% Vault","symbol":"arbiDysonChrV3STARUSDC1bpsVault","image":"","decimals":18},"0xc9df93497b1852552f2200701ce58c236cc0378c":{"address":"0xC9dF93497B1852552F2200701cE58C236cC0378C","name":"Stable AMM - USDT/USDC","symbol":"sAMM-USDT/USDC","image":"","decimals":18},"0xaed0e3cec057ca82cd562c358a91aedd2510ecec":{"address":"0xaeD0E3CEC057Ca82cd562c358a91aEdd2510eCEc","name":"Dyson SolidLizard USDT/USDC Vault","symbol":"DysonArbiSolidLizardUSDCUSDTVault","image":"","decimals":18},"0x5cd95bc186e41419e6b48a0153833c8105781292":{"address":"0x5cd95bc186E41419e6B48a0153833C8105781292","name":"Volatile AMM - agEUR/USDC","symbol":"vAMM-agEUR/USDC","image":"","decimals":18},"0xe5103cc276370dd4012daa6304c3f11187da3f85":{"address":"0xe5103Cc276370dD4012DAA6304C3f11187da3f85","name":"Dyson SolidLizard agEUR/USDC Vault","symbol":"DysonArbiSolidLizardAGEURUSDCVault","image":"","decimals":18},"0x76306492d938ae46df657c006e642b4d31dc6bd9":{"address":"0x76306492d938ae46df657c006e642b4d31dc6bd9","name":"Stable AMM - LUSD/USDT","symbol":"sAMM-LUSD/USDT","image":"","decimals":18},"0xc2a16f7164b98cd6acffbcbd46defc6aa3b95a59":{"address":"0xC2a16f7164B98CD6AcFFbcBd46defc6AA3B95A59","name":"Dyson SolidLizard LUSD/USDT Vault","symbol":"DysonArbiSolidLizardLUSDUSDTVault","image":"","decimals":18},"0xb1e9b823295b3c69ac651c05d987b67189ff20ad":{"address":"0xB1E9b823295B3C69ac651C05D987B67189ff20AD","name":"Stable AMM - LUSD/USDC","symbol":"sAMM-LUSD/USDC","image":"","decimals":18},"0xaddb5609d0524d5fb65e626ddd135f5798d1748a":{"address":"0xaddB5609d0524d5FB65E626dDD135F5798d1748A","name":"Dyson SolidLizard LUSD/USDC Vault","symbol":"DysonArbiSolidLizardLUSDUSDCVault","image":"","decimals":18},"0x219fbc3ed20152a9501ddaa47f2a8c193e32d0c6":{"address":"0x219fbc3ed20152a9501dDAA47F2a8C193E32D0C6","name":"Stable AMM - USD+/USDC","symbol":"sAMM-USD+/USDC","image":"","decimals":18},"0xe42ea4e3ef0db0023276612b9b243735287f649d":{"address":"0xE42eA4E3EF0dB0023276612b9b243735287F649D","name":"Dyson SolidLizard USD+/USDC Vault","symbol":"DysonArbiSolidLizardUSDPUSDCVault","image":"","decimals":18},"0x97e5f60fa17816011039b908c19fa4b43de73731":{"address":"0x97e5f60fA17816011039B908C19Fa4B43DE73731","name":"Stable AMM - ETS Gamma/USD+","symbol":"sAMM-ETS Gamma/USD+","image":"","decimals":18},"0x400464d212853cf503d2bbe352a2ae068d74154d":{"address":"0x400464D212853cf503D2bBE352A2ae068D74154D","name":"Dyson SolidLizard USD+/ETS Gamma Vault","symbol":"DysonArbiSolidLizardUSDPETSGammaVault","image":"","decimals":18},"0xb2e5cbe39c92afb14cb8dbadcc138ea4a8614bae":{"address":"0xb2e5cbe39c92afb14cb8dbadcc138ea4a8614bae","name":"Stable AMM - MAI/USDC","symbol":"sAMM-MAI/USDC","image":"","decimals":18},"0xc8c8eb3c3e8930ec3be0ee1c7f96cf56ed9de0f9":{"address":"0xc8C8EB3C3e8930EC3Be0EE1C7F96Cf56ed9de0f9","name":"Dyson SolidLizard MAI/USDC Vault","symbol":"DysonArbiSolidLizardMAIUSDCVault","image":"","decimals":18},"0xdf58c5f73ea1c9003abfeb9194eb817d256cb3ad":{"address":"0xdf58c5f73ea1c9003abfeb9194eb817d256cb3ad","name":"Stable AMM - DOLA/USDC","symbol":"sAMM-DOLA/USDC","image":"","decimals":18},"0x49405ac1eab6a420e046f1c715b679e67d22a565":{"address":"0x49405ac1eAb6A420e046f1c715B679E67d22a565","name":"Dyson SolidLizard DOLA/USDC Vault","symbol":"DysonArbiSolidLizardDOLAUSDCVault","image":"","decimals":18},"0x99fe59026a627e03ff34b9f2fa08ba70d7a703f9":{"address":"0x99fe59026A627e03ff34B9F2FA08bA70d7a703f9","name":"Stable AMM - LUSD/DAI","symbol":"sAMM-LUSD/DAI","image":"","decimals":18},"0xfd9ab363b0cf270287f61ec3ed7c0fca50feaf9e":{"address":"0xfD9Ab363b0CF270287F61ec3ed7C0FcA50feaF9e","name":"Dyson SolidLizard LUSD/DAI Vault","symbol":"DysonArbiSolidLizardLUSDDAIVault","image":"","decimals":18},"0xe20f93279ff3538b1ad70d11ba160755625e3400":{"address":"0xe20F93279fF3538b1ad70D11bA160755625e3400","name":"Volatile AMM - WETH/USDC","symbol":"vAMM-WETH/USDC","image":"","decimals":18},"0x8b1a3f2f31f94bc9fa87c76fe17818cf103c219e":{"address":"0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e","name":"Dyson SolidLizard WETH/USDC Vault","symbol":"DysonArbiSolidLizardWETHUSDCVault","image":"","decimals":18},"0x07d7f291e731a41d3f0ea4f1ae5b6d920ffb3fe0":{"address":"0x07d7f291e731a41d3f0ea4f1ae5b6d920ffb3fe0","name":"Stable AMM - DAI/USDC","symbol":"sAMM-DAI/USDC","image":"","decimals":18},"0x5f159730712119cb399cee85ce678d317ee68260":{"address":"0x5F159730712119CB399CEE85cE678d317Ee68260","name":"Dyson SolidLizard DAI/USDC Vault","symbol":"DysonArbiSolidLizardDAIUSDCVault","image":"","decimals":18},"0x15b9d20bcaa4f65d9004d2bebac4058445fd5285":{"address":"0x15b9d20bcaa4f65d9004d2bebac4058445fd5285","name":"Stable AMM - DAI/USDT","symbol":"sAMM-DAI/USDT","image":"","decimals":18},"0xdcffe790e6efda3331b9cda9d21f1401e25f6353":{"address":"0xDcfFe790e6eFDa3331b9cDa9d21f1401e25f6353","name":"Dyson SolidLizard DAI/USDT Vault","symbol":"DysonArbiSolidLizardDAIUSDTVault","image":"","decimals":18},"0x6efef13c68959cea3293669f9294d826ccc31058":{"address":"0x6efef13c68959cea3293669f9294d826ccc31058","name":"Stable AMM - SLIZ/spSLIZ","symbol":"sAMM-SLIZ/spSLIZ","image":"","decimals":18},"0xca669649c7ec9f90a57c739c4bdf9d02c9fafe89":{"address":"0xCA669649c7ec9F90A57C739C4bDf9d02c9fAFE89","name":"Dyson SolidLizard SLIZ/spSLIZ Vault","symbol":"DysonArbiSolidLizardSLIZspSLIZVault","image":"","decimals":18},"0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841":{"address":"0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841","name":"Volatile AMM - JRT/WETH","symbol":"vAMM-JRT/WETH","image":"","decimals":18},"0x6917863c148beb8700a3cc48a0c26095f90d0195":{"address":"0x6917863C148beB8700a3CC48A0C26095f90D0195","name":"Dyson SolidLizard JRT/WETH Vault","symbol":"DysonArbiSolidLizardJRTWETHVault","image":"","decimals":18},"0x70717296353f0cdaf1b9a5626455def6b6cf63a9":{"address":"0x70717296353f0CDAF1b9A5626455dEf6b6cF63a9","name":"StableV1 AMM - wstETH/WETH","symbol":"sAMM-wstETH/WETH","image":"","decimals":18},"0x89d5092eb25b3e75d83128ac7c9c9ac2ea705ab7":{"address":"0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7","name":"Dyson Sterling wstETH/WETH Vault","symbol":"DysonArbiSterlingWSTETHWETHVault","image":"","decimals":18},"0x4db060e95036a4ca1ceaa2d14d9f0bb6bd6ffb52":{"address":"0x4db060E95036A4ca1CEAa2D14D9F0bB6BD6FFb52","name":"StableV1 AMM - spSTR/STR","symbol":"sAMM-spSTR/STR","image":"","decimals":18},"0x6f3a405f8e67ef5f6b1655e13eab26e344cd4ae0":{"address":"0x6f3A405f8e67ef5f6b1655E13eAb26e344CD4AE0","name":"Dyson Sterling spSTR/STR Vault","symbol":"DysonArbiSterlingspSTRSTRVault","image":"","decimals":18},"0xacc13137378c2a63b550b5370df97c4d97a032f4":{"address":"0xacc13137378c2a63b550b5370df97c4d97a032f4","name":"Stable AMM - jEUR/agEUR","symbol":"sAMM-jEUR/agEUR","image":"","decimals":18},"0x64398ebd6e53423d30841e1b68993c95e6a78ce3":{"address":"0x64398ebD6e53423d30841e1b68993C95E6a78CE3","name":"Dyson SolidLizard jEUR/agEUR Vault","symbol":"DysonArbiSolidLizardjEURAGEURVault","image":"","decimals":18}}
+{
+    "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+        "decimals": 18
+    },
+    "WETH": {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+        "decimals": 18
+    },
+    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg",
+        "decimals": 8
+    },
+    "WBTC": {
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBTC.svg",
+        "decimals": 8
+    },
+    "0xaf88d065e77c8cc2239327c5edb3a432268e5831": {
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+        "decimals": 6
+    },
+    "USDC": {
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+        "decimals": 6
+    },
+    "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+        "decimals": 6
+    },
+    "USDT": {
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+        "decimals": 6
+    },
+    "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a": {
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "name": "GMX",
+        "symbol": "GMX",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GMX.svg",
+        "decimals": 18
+    },
+    "GMX": {
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "name": "GMX",
+        "symbol": "GMX",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GMX.svg",
+        "decimals": 18
+    },
+    "0x912ce59144191c1204e64559fe8253a0e49e6548": {
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ARB.svg",
+        "decimals": 18
+    },
+    "ARB": {
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ARB.svg",
+        "decimals": 18
+    },
+    "0xc19669a405067927865b40ea045a2baabbbe57f5": {
+        "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+        "name": "STAR",
+        "symbol": "STAR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg",
+        "decimals": 18
+    },
+    "STAR": {
+        "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+        "name": "STAR",
+        "symbol": "STAR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg",
+        "decimals": 18
+    },
+    "0x5979d7b546e38e414f7e9822514be443a4800529": {
+        "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "WSTETH",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WSTETH.svg",
+        "decimals": 18
+    },
+    "WSTETH": {
+        "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "WSTETH",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WSTETH.svg",
+        "decimals": 18
+    },
+    "0x93b346b6bc2548da6a1e7d98e9a421b42541425b": {
+        "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/LUSD.svg",
+        "decimals": 18
+    },
+    "LUSD": {
+        "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/LUSD.svg",
+        "decimals": 18
+    },
+    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DAI.svg",
+        "decimals": 18
+    },
+    "DAI": {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DAI.svg",
+        "decimals": 18
+    },
+    "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e": {
+        "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
+        "name": "Jarvis Reward Token",
+        "symbol": "JRT",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JRT.svg",
+        "decimals": 18
+    },
+    "JRT": {
+        "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
+        "name": "Jarvis Reward Token",
+        "symbol": "JRT",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JRT.svg",
+        "decimals": 18
+    },
+    "0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68": {
+        "address": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68",
+        "name": "Sterling",
+        "symbol": "STR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STR.svg",
+        "decimals": 18
+    },
+    "STR": {
+        "address": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68",
+        "name": "Sterling",
+        "symbol": "STR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STR.svg",
+        "decimals": 18
+    },
+    "0x3b443e9b9b7f340c7b1417abfdc64132341873d4": {
+        "address": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
+        "name": "Sphere veSTR Staker",
+        "symbol": "spSTR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg",
+        "decimals": 18
+    },
+    "SPSTR": {
+        "address": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
+        "name": "Sphere veSTR Staker",
+        "symbol": "spSTR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg",
+        "decimals": 18
+    },
+    "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "name": "USD Coin (Arb1)",
+        "symbol": "USDCe",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDCE.svg",
+        "decimals": 6
+    },
+    "USDC.E": {
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "name": "USD Coin (Arb1)",
+        "symbol": "USDC.e",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.E.svg",
+        "decimals": 6
+    },
+    "USDCE": {
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "name": "USD Coin (Arb1)",
+        "symbol": "USDCe",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDCE.svg",
+        "decimals": 6
+    },
+    "0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851": {
+        "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+        "name": "CHRONOS",
+        "symbol": "CHR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/CHR.svg",
+        "decimals": 18
+    },
+    "CHR": {
+        "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+        "name": "CHRONOS",
+        "symbol": "CHR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/CHR.svg",
+        "decimals": 18
+    },
+    "0xfea2906087d82bd8da630e7e2c7d9a4deb061097": {
+        "address": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
+        "name": "Sphere veCHR Staker",
+        "symbol": "spCHR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg",
+        "decimals": 18
+    },
+    "SPCHR": {
+        "address": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
+        "name": "Sphere veCHR Staker",
+        "symbol": "spCHR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg",
+        "decimals": 18
+    },
+    "0xad435674417520aeeed6b504bbe654d4f556182f": {
+        "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
+        "name": "Jarvis Synthetic Euro",
+        "symbol": "jEUR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JEUR.svg",
+        "decimals": 18
+    },
+    "JEUR": {
+        "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
+        "name": "Jarvis Synthetic Euro",
+        "symbol": "jEUR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JEUR.svg",
+        "decimals": 18
+    },
+    "0x463913d3a3d3d291667d53b8325c598eb88d3b0e": {
+        "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
+        "name": "SolidLizard dex token",
+        "symbol": "SLIZ",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SLIZ.svg",
+        "decimals": 18
+    },
+    "SLIZ": {
+        "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
+        "name": "SolidLizard dex token",
+        "symbol": "SLIZ",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SLIZ.svg",
+        "decimals": 18
+    },
+    "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3": {
+        "address": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
+        "name": "Sphere veSLIZ Staker",
+        "symbol": "spSLIZ",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg",
+        "decimals": 18
+    },
+    "SPSLIZ": {
+        "address": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
+        "name": "Sphere veSLIZ Staker",
+        "symbol": "spSLIZ",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg",
+        "decimals": 18
+    },
+    "0x813ffcc4af3e810e6b447235cc88a02f00454453": {
+        "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
+        "name": "ETS Gamma",
+        "symbol": "ETSGAMMA",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETSGAMMA.svg",
+        "decimals": 6
+    },
+    "ETS GAMMA": {
+        "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
+        "name": "ETS Gamma",
+        "symbol": "ETS GAMMA",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETS GAMMA.svg",
+        "decimals": 6
+    },
+    "ETSGAMMA": {
+        "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
+        "name": "ETS Gamma",
+        "symbol": "ETSGAMMA",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETSGAMMA.svg",
+        "decimals": 6
+    },
+    "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7": {
+        "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AGEUR.svg",
+        "decimals": 18
+    },
+    "AGEUR": {
+        "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AGEUR.svg",
+        "decimals": 18
+    },
+    "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65": {
+        "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+        "name": "USD+",
+        "symbol": "USD+",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg",
+        "decimals": 6
+    },
+    "USD+": {
+        "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+        "name": "USD+",
+        "symbol": "USD+",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg",
+        "decimals": 6
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+        "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+        "name": "Mai Stablecoin",
+        "symbol": "MAI",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/MAI.svg",
+        "decimals": 18
+    },
+    "MAI": {
+        "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+        "name": "Mai Stablecoin",
+        "symbol": "MAI",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/MAI.svg",
+        "decimals": 18
+    },
+    "0x6a7661795c374c0bfc635934efaddff3a7ee23b6": {
+        "address": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6",
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DOLA.svg",
+        "decimals": 18
+    },
+    "DOLA": {
+        "address": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6",
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DOLA.svg",
+        "decimals": 18
+    },
+    "0x2e62d340cdc21848d444d6b454f89a541f9969d6": {
+        "address": "0x2e62d340CdC21848d444d6b454F89a541F9969d6",
+        "name": "Dyson ChrV3 ARB/USDC.e 0.05% Vault",
+        "symbol": "arbiDysonChrV3ARBUSDCe5bpsVault ",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x6c7e1caf8af916b7f0a493dc89148bb3f813d6d1": {
+        "address": "0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1",
+        "name": "Dyson UniV3 WETH/GMX 0.30% Vault",
+        "symbol": "arbiDysonUniV3WETHGMX30BpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x9c9790c82859db18ce974fa5e9bd2927c845b1d4": {
+        "address": "0x9c9790C82859DB18ce974FA5e9bD2927C845B1D4",
+        "name": "Dyson UniV3 WETH/USDT 0.05% Vault",
+        "symbol": "arbiDysonUniV3WETHUSDT5BpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xb5a3e0f1c9b3b9b8c478edb8c62043b2beb7edf1": {
+        "address": "0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1",
+        "name": "Dyson UniV3 WETH/USDC 0.30% Vault",
+        "symbol": "arbiDysonUniV3WETHUSDC30bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x17831b2d149bd43fbde0eb1b727f86abbd5053fd": {
+        "address": "0x17831B2d149BD43fbdE0EB1b727F86aBBd5053fD",
+        "name": "Dyson UniV3 USDT/USDC 0.05% Vault",
+        "symbol": "arbiDysonUniV3USDTUSC5bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xb33775911fc0375538c2d90733f749ad8a203e00": {
+        "address": "0xb33775911fc0375538c2D90733f749AD8A203e00",
+        "name": "Dyson UniV3 WBTC/WETH 0.05% Vault",
+        "symbol": "arbiDysonUniV3WBTCWETH5BpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x505a98d9afda51d3db779e2aa3941cbff429be7a": {
+        "address": "0x505A98d9aFda51D3dB779e2aA3941CbFF429BE7a",
+        "name": "Dyson UniV3 WETH/USDC 0.05% Vault",
+        "symbol": "arbiDysonUniV3WETHUSC5bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c": {
+        "address": "0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c",
+        "name": "Dyson ChrV3 WETH/USDT 0.05% Vault",
+        "symbol": "arbiDysonChrV3WETHUSDT5bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x9a56f822babfbfdc2f25cb34eb952ff38af869d8": {
+        "address": "0x9a56f822babfbfdc2f25cb34eb952ff38af869d8",
+        "name": "Dyson ChrV3 WETH/USDC.e 0.05% Vault",
+        "symbol": "arbiDysonChrV3WETHUSDCe5bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x951966d474f13260f90a3e770b53589013d49241": {
+        "address": "0x951966d474f13260f90a3E770b53589013d49241",
+        "name": "Dyson ChrV3 WETH/ARB 0.05% Vault",
+        "symbol": "arbiDysonChrV3WETHARB5bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xd416063128bf5a81d20547adadf29b74440d6699": {
+        "address": "0xd416063128bf5A81D20547adaDf29b74440D6699",
+        "name": "Dyson ChrV3 STAR/USDC 0.01% Vault",
+        "symbol": "arbiDysonChrV3STARUSDC1bpsVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xc9df93497b1852552f2200701ce58c236cc0378c": {
+        "address": "0xC9dF93497B1852552F2200701cE58C236cC0378C",
+        "name": "Stable AMM - USDT/USDC",
+        "symbol": "sAMM-USDT/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xaed0e3cec057ca82cd562c358a91aedd2510ecec": {
+        "address": "0xaeD0E3CEC057Ca82cd562c358a91aEdd2510eCEc",
+        "name": "Dyson SolidLizard USDT/USDC Vault",
+        "symbol": "DysonArbiSolidLizardUSDCUSDTVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x5cd95bc186e41419e6b48a0153833c8105781292": {
+        "address": "0x5cd95bc186E41419e6B48a0153833C8105781292",
+        "name": "Volatile AMM - agEUR/USDC",
+        "symbol": "vAMM-agEUR/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xe5103cc276370dd4012daa6304c3f11187da3f85": {
+        "address": "0xe5103Cc276370dD4012DAA6304C3f11187da3f85",
+        "name": "Dyson SolidLizard agEUR/USDC Vault",
+        "symbol": "DysonArbiSolidLizardAGEURUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x76306492d938ae46df657c006e642b4d31dc6bd9": {
+        "address": "0x76306492d938ae46df657c006e642b4d31dc6bd9",
+        "name": "Stable AMM - LUSD/USDT",
+        "symbol": "sAMM-LUSD/USDT",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xc2a16f7164b98cd6acffbcbd46defc6aa3b95a59": {
+        "address": "0xC2a16f7164B98CD6AcFFbcBd46defc6AA3B95A59",
+        "name": "Dyson SolidLizard LUSD/USDT Vault",
+        "symbol": "DysonArbiSolidLizardLUSDUSDTVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xb1e9b823295b3c69ac651c05d987b67189ff20ad": {
+        "address": "0xB1E9b823295B3C69ac651C05D987B67189ff20AD",
+        "name": "Stable AMM - LUSD/USDC",
+        "symbol": "sAMM-LUSD/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xaddb5609d0524d5fb65e626ddd135f5798d1748a": {
+        "address": "0xaddB5609d0524d5FB65E626dDD135F5798d1748A",
+        "name": "Dyson SolidLizard LUSD/USDC Vault",
+        "symbol": "DysonArbiSolidLizardLUSDUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x219fbc3ed20152a9501ddaa47f2a8c193e32d0c6": {
+        "address": "0x219fbc3ed20152a9501dDAA47F2a8C193E32D0C6",
+        "name": "Stable AMM - USD+/USDC",
+        "symbol": "sAMM-USD+/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xe42ea4e3ef0db0023276612b9b243735287f649d": {
+        "address": "0xE42eA4E3EF0dB0023276612b9b243735287F649D",
+        "name": "Dyson SolidLizard USD+/USDC Vault",
+        "symbol": "DysonArbiSolidLizardUSDPUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x97e5f60fa17816011039b908c19fa4b43de73731": {
+        "address": "0x97e5f60fA17816011039B908C19Fa4B43DE73731",
+        "name": "Stable AMM - ETS Gamma/USD+",
+        "symbol": "sAMM-ETS Gamma/USD+",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x400464d212853cf503d2bbe352a2ae068d74154d": {
+        "address": "0x400464D212853cf503D2bBE352A2ae068D74154D",
+        "name": "Dyson SolidLizard USD+/ETS Gamma Vault",
+        "symbol": "DysonArbiSolidLizardUSDPETSGammaVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xb2e5cbe39c92afb14cb8dbadcc138ea4a8614bae": {
+        "address": "0xb2e5cbe39c92afb14cb8dbadcc138ea4a8614bae",
+        "name": "Stable AMM - MAI/USDC",
+        "symbol": "sAMM-MAI/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xc8c8eb3c3e8930ec3be0ee1c7f96cf56ed9de0f9": {
+        "address": "0xc8C8EB3C3e8930EC3Be0EE1C7F96Cf56ed9de0f9",
+        "name": "Dyson SolidLizard MAI/USDC Vault",
+        "symbol": "DysonArbiSolidLizardMAIUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xdf58c5f73ea1c9003abfeb9194eb817d256cb3ad": {
+        "address": "0xdf58c5f73ea1c9003abfeb9194eb817d256cb3ad",
+        "name": "Stable AMM - DOLA/USDC",
+        "symbol": "sAMM-DOLA/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x49405ac1eab6a420e046f1c715b679e67d22a565": {
+        "address": "0x49405ac1eAb6A420e046f1c715B679E67d22a565",
+        "name": "Dyson SolidLizard DOLA/USDC Vault",
+        "symbol": "DysonArbiSolidLizardDOLAUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x99fe59026a627e03ff34b9f2fa08ba70d7a703f9": {
+        "address": "0x99fe59026A627e03ff34B9F2FA08bA70d7a703f9",
+        "name": "Stable AMM - LUSD/DAI",
+        "symbol": "sAMM-LUSD/DAI",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xfd9ab363b0cf270287f61ec3ed7c0fca50feaf9e": {
+        "address": "0xfD9Ab363b0CF270287F61ec3ed7C0FcA50feaF9e",
+        "name": "Dyson SolidLizard LUSD/DAI Vault",
+        "symbol": "DysonArbiSolidLizardLUSDDAIVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xe20f93279ff3538b1ad70d11ba160755625e3400": {
+        "address": "0xe20F93279fF3538b1ad70D11bA160755625e3400",
+        "name": "Volatile AMM - WETH/USDC",
+        "symbol": "vAMM-WETH/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x8b1a3f2f31f94bc9fa87c76fe17818cf103c219e": {
+        "address": "0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e",
+        "name": "Dyson SolidLizard WETH/USDC Vault",
+        "symbol": "DysonArbiSolidLizardWETHUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x07d7f291e731a41d3f0ea4f1ae5b6d920ffb3fe0": {
+        "address": "0x07d7f291e731a41d3f0ea4f1ae5b6d920ffb3fe0",
+        "name": "Stable AMM - DAI/USDC",
+        "symbol": "sAMM-DAI/USDC",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x5f159730712119cb399cee85ce678d317ee68260": {
+        "address": "0x5F159730712119CB399CEE85cE678d317Ee68260",
+        "name": "Dyson SolidLizard DAI/USDC Vault",
+        "symbol": "DysonArbiSolidLizardDAIUSDCVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x15b9d20bcaa4f65d9004d2bebac4058445fd5285": {
+        "address": "0x15b9d20bcaa4f65d9004d2bebac4058445fd5285",
+        "name": "Stable AMM - DAI/USDT",
+        "symbol": "sAMM-DAI/USDT",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xdcffe790e6efda3331b9cda9d21f1401e25f6353": {
+        "address": "0xDcfFe790e6eFDa3331b9cDa9d21f1401e25f6353",
+        "name": "Dyson SolidLizard DAI/USDT Vault",
+        "symbol": "DysonArbiSolidLizardDAIUSDTVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x6efef13c68959cea3293669f9294d826ccc31058": {
+        "address": "0x6efef13c68959cea3293669f9294d826ccc31058",
+        "name": "Stable AMM - SLIZ/spSLIZ",
+        "symbol": "sAMM-SLIZ/spSLIZ",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xca669649c7ec9f90a57c739c4bdf9d02c9fafe89": {
+        "address": "0xCA669649c7ec9F90A57C739C4bDf9d02c9fAFE89",
+        "name": "Dyson SolidLizard SLIZ/spSLIZ Vault",
+        "symbol": "DysonArbiSolidLizardSLIZspSLIZVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841": {
+        "address": "0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841",
+        "name": "Volatile AMM - JRT/WETH",
+        "symbol": "vAMM-JRT/WETH",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x6917863c148beb8700a3cc48a0c26095f90d0195": {
+        "address": "0x6917863C148beB8700a3CC48A0C26095f90D0195",
+        "name": "Dyson SolidLizard JRT/WETH Vault",
+        "symbol": "DysonArbiSolidLizardJRTWETHVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x70717296353f0cdaf1b9a5626455def6b6cf63a9": {
+        "address": "0x70717296353f0CDAF1b9A5626455dEf6b6cF63a9",
+        "name": "StableV1 AMM - wstETH/WETH",
+        "symbol": "sAMM-wstETH/WETH",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x89d5092eb25b3e75d83128ac7c9c9ac2ea705ab7": {
+        "address": "0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7",
+        "name": "Dyson Sterling wstETH/WETH Vault",
+        "symbol": "DysonArbiSterlingWSTETHWETHVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x4db060e95036a4ca1ceaa2d14d9f0bb6bd6ffb52": {
+        "address": "0x4db060E95036A4ca1CEAa2D14D9F0bB6BD6FFb52",
+        "name": "StableV1 AMM - spSTR/STR",
+        "symbol": "sAMM-spSTR/STR",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x6f3a405f8e67ef5f6b1655e13eab26e344cd4ae0": {
+        "address": "0x6f3A405f8e67ef5f6b1655E13eAb26e344CD4AE0",
+        "name": "Dyson Sterling spSTR/STR Vault",
+        "symbol": "DysonArbiSterlingspSTRSTRVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0xacc13137378c2a63b550b5370df97c4d97a032f4": {
+        "address": "0xacc13137378c2a63b550b5370df97c4d97a032f4",
+        "name": "Stable AMM - jEUR/agEUR",
+        "symbol": "sAMM-jEUR/agEUR",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    },
+    "0x64398ebd6e53423d30841e1b68993c95e6a78ce3": {
+        "address": "0x64398ebD6e53423d30841e1b68993C95E6a78CE3",
+        "name": "Dyson SolidLizard jEUR/agEUR Vault",
+        "symbol": "DysonArbiSolidLizardjEURAGEURVault",
+        "image": "",
+        "decimals": 18,
+        "lp": true
+    }
+}
