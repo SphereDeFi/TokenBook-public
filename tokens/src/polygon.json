@@ -6,7 +6,8 @@
     },
     {
       "symbol": "ylSPHERE",
-      "address": "0x4Af613f297ab00361D516454E5E46bc895889653"
+      "address": "0x4Af613f297ab00361D516454E5E46bc895889653",
+      "mirror": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7"
     },
     {
       "symbol": "WETH",
@@ -90,7 +91,8 @@
     },
     {
       "symbol": "spSATIN",
-      "address": "0x3Ceb4c9CB783a7e7761f26E66133f7D84690728f"
+      "address": "0x3Ceb4c9CB783a7e7761f26E66133f7D84690728f",
+      "mirror": "0xb87493c96af9623c737e8aa7f0d4f6f3b49c64ba"
     },
     {
       "symbol": "bbawMATIC",
