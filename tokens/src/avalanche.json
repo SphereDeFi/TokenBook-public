@@ -5,8 +5,13 @@
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
     },
     {
+      "symbol": "WBTC.e",
+      "address": "0x50b7545627a5162f82a992c33b87adc75187b218"
+    },
+    {
       "symbol": "WBTC",
-      "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab"
+      "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+      "mirror": "0x50b7545627a5162f82a992c33b87adc75187b218"
     },
     {
       "symbol": "USDC",
