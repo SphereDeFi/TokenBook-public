@@ -87,12 +87,14 @@
     },
     {
       "symbol": "SATIN",
-      "address": "0xb87493c96af9623c737e8aa7f0d4f6f3b49c64ba"
+      "address": "0xb87493c96af9623c737e8aa7f0d4f6f3b49c64ba",
+      "deprecated": true
     },
     {
       "symbol": "spSATIN",
       "address": "0x3Ceb4c9CB783a7e7761f26E66133f7D84690728f",
-      "mirror": "0xb87493c96af9623c737e8aa7f0d4f6f3b49c64ba"
+      "mirror": "0xb87493c96af9623c737e8aa7f0d4f6f3b49c64ba",
+      "deprecated": true
     },
     {
       "symbol": "bbawMATIC",
