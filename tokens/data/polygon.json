@@ -146,14 +146,16 @@
     "name": "Tetu V2 tUSDC",
     "symbol": "TUSDC",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TUSDC.svg",
-    "decimals": 6
+    "decimals": 6,
+    "pool": "0x4fcdb2dcc4ce156c723ad541dba8b39d47284fc5"
   },
   "TUSDC": {
     "address": "0x0D397F4515007AE4822703b74b9922508837A04E",
     "name": "Tetu V2 tUSDC",
     "symbol": "TUSDC",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TUSDC.svg",
-    "decimals": 6
+    "decimals": 6,
+    "pool": "0x4fcdb2dcc4ce156c723ad541dba8b39d47284fc5"
   },
   "0x40379a439d4f6795b6fc9aa5687db461677a2dba": {
     "address": "0x40379a439D4F6795B6fc9aa5687dB461677A2dBa",
