@@ -283,9 +283,10 @@
   "0x813ffcc4af3e810e6b447235cc88a02f00454453": {
     "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
     "name": "ETS Gamma",
-    "symbol": "ETSGAMMA",
-    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETSGAMMA.svg",
-    "decimals": 6
+    "symbol": "ETS GAMMA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETS GAMMA.svg",
+    "decimals": 6,
+    "pool": "0x97e5f60fa17816011039b908c19fa4b43de73731"
   },
   "ETS GAMMA": {
     "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
@@ -294,13 +295,6 @@
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETS GAMMA.svg",
     "decimals": 6,
     "pool": "0x97e5f60fa17816011039b908c19fa4b43de73731"
-  },
-  "ETSGAMMA": {
-    "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
-    "name": "ETS Gamma",
-    "symbol": "ETSGAMMA",
-    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETSGAMMA.svg",
-    "decimals": 6
   },
   "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7": {
     "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
