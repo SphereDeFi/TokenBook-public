@@ -98,8 +98,7 @@
     },
     {
       "symbol": "USD+",
-      "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
-      "coingeckoId": "usd"
+      "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
     },
     {
       "symbol": "MAI",
