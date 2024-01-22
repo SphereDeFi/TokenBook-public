@@ -72,7 +72,8 @@
     },
     {
       "symbol": "jEUR",
-      "address": "0xAD435674417520aeeED6b504bBe654d4f556182F"
+      "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
+      "coingeckoId": "jarvis-synthetic-euro"
     },
     {
       "symbol": "SLIZ",
@@ -97,7 +98,8 @@
     },
     {
       "symbol": "USD+",
-      "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
+      "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+      "coingeckoId": "usd"
     },
     {
       "symbol": "MAI",
