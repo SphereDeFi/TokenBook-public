@@ -320,16 +320,14 @@
     "name": "USD+",
     "symbol": "USD+",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg",
-    "decimals": 6,
-    "coingeckoId": "usd"
+    "decimals": 6
   },
   "USD+": {
     "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
     "name": "USD+",
     "symbol": "USD+",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg",
-    "decimals": 6,
-    "coingeckoId": "usd"
+    "decimals": 6
   },
   "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
     "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
