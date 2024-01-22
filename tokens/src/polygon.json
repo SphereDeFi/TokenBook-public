@@ -43,7 +43,8 @@
     },
     {
       "symbol": "TUSDC",
-      "address": "0x0D397F4515007AE4822703b74b9922508837A04E"
+      "address": "0x0D397F4515007AE4822703b74b9922508837A04E",
+      "pool": "0x4fcdb2dcc4ce156c723ad541dba8b39d47284fc5"
     },
     {
       "symbol": "USDR",

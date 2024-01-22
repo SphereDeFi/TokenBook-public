@@ -36,7 +36,8 @@
     },
     {
       "symbol": "GLCR",
-      "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6"
+      "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
+      "pool": "0xc6e01a1f168a99771a56227b40fd21f1999cf2c5"
     },
     {
       "symbol": "spGLCR",
