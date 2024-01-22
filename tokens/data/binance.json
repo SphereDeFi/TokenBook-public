@@ -1,88 +1,88 @@
 {
-    "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea": {
-        "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
-        "decimals": 18
-    },
-    "WETH": {
-        "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
-        "decimals": 18
-    },
-    "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
-        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
-        "decimals": 18
-    },
-    "USDC": {
-        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
-        "decimals": 18
-    },
-    "0x55d398326f99059ff775485246999027b3197955": {
-        "address": "0x55d398326f99059ff775485246999027b3197955",
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
-        "decimals": 18
-    },
-    "USDT": {
-        "address": "0x55d398326f99059ff775485246999027b3197955",
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
-        "decimals": 18
-    },
-    "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
-        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "name": "Wrapped BNB",
-        "symbol": "WBNB",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBNB.svg",
-        "decimals": 18
-    },
-    "WBNB": {
-        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "name": "Wrapped BNB",
-        "symbol": "WBNB",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBNB.svg",
-        "decimals": 18
-    },
-    "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
-        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "name": "BUSD Token",
-        "symbol": "BUSD",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BUSD.svg",
-        "decimals": 18
-    },
-    "BUSD": {
-        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "name": "BUSD Token",
-        "symbol": "BUSD",
-        "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BUSD.svg",
-        "decimals": 18
-    },
-    "0x618f9eb0e1a698409621f4f487b563529f003643": {
-        "address": "0x618f9eb0e1a698409621f4f487b563529f003643",
-        "name": "StableV1 AMM - USDT/USDC",
-        "symbol": "sAMM-USDT/USDC",
-        "image": "",
-        "decimals": 18,
-        "lp": true
-    },
-    "0xd7f442f4fad9c5c58425ac69c60670c05ee7cf9d": {
-        "address": "0xD7f442f4fAD9C5C58425AC69C60670C05eE7cf9d",
-        "name": "DysonBnbThenaUSDTUSDCVault",
-        "symbol": "Dyson Thena USDT/USDC Vault",
-        "image": "",
-        "decimals": 18,
-        "lp": true
-    }
+  "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea": {
+    "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "WETH": {
+    "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 18
+  },
+  "USDC": {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDC.svg",
+    "decimals": 18
+  },
+  "0x55d398326f99059ff775485246999027b3197955": {
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+    "decimals": 18
+  },
+  "USDT": {
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDT.svg",
+    "decimals": 18
+  },
+  "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBNB.svg",
+    "decimals": 18
+  },
+  "WBNB": {
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WBNB.svg",
+    "decimals": 18
+  },
+  "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BUSD.svg",
+    "decimals": 18
+  },
+  "BUSD": {
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BUSD.svg",
+    "decimals": 18
+  },
+  "0x618f9eb0e1a698409621f4f487b563529f003643": {
+    "address": "0x618f9eb0e1a698409621f4f487b563529f003643",
+    "name": "StableV1 AMM - USDT/USDC",
+    "symbol": "sAMM-USDT/USDC",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xd7f442f4fad9c5c58425ac69c60670c05ee7cf9d": {
+    "address": "0xD7f442f4fAD9C5C58425AC69C60670C05eE7cf9d",
+    "name": "DysonBnbThenaUSDTUSDCVault",
+    "symbol": "Dyson Thena USDT/USDC Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  }
 }
