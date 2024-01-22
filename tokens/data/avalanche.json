@@ -90,14 +90,16 @@
     "name": "Flair Dex Token",
     "symbol": "FLDX",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg",
-    "decimals": 18
+    "decimals": 18,
+    "pool": "0x7fe7277fc15be3cb2cacd4562d46d36a9839957c"
   },
   "FLDX": {
     "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
     "name": "Flair Dex Token",
     "symbol": "FLDX",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg",
-    "decimals": 18
+    "decimals": 18,
+    "pool": "0x7fe7277fc15be3cb2cacd4562d46d36a9839957c"
   },
   "0xe5b584f5f8b2872202433d56299e3867ba246c6e": {
     "address": "0xE5b584f5f8B2872202433D56299e3867ba246C6E",

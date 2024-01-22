@@ -27,7 +27,8 @@
     },
     {
       "symbol": "FLDX",
-      "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326"
+      "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
+      "pool": "0x7fe7277fc15be3cb2cacd4562d46d36a9839957c"
     },
     {
       "symbol": "spFLDX",
