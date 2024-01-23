@@ -51,7 +51,7 @@
     {
       "symbol": "spSTR",
       "address": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
-      "mirror": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68"
+      "pool": "0xc64d1b8eb2672266df3f09f6f4c166f8e4965a1a"
     },
     {
       "symbol": "USDC.e",
@@ -68,7 +68,7 @@
     {
       "symbol": "spCHR",
       "address": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
-      "mirror": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851"
+      "pool": "0x4484ce1f30bbce0e5f57f2d11037a36a8d508a74"
     },
     {
       "symbol": "jEUR",
@@ -82,7 +82,7 @@
     {
       "symbol": "spSLIZ",
       "address": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
-      "mirror": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e"
+      "pool": "0x6efef13c68959cea3293669f9294d826ccc31058"
     },
     {
       "symbol": "ETS GAMMA",
