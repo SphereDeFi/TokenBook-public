@@ -85,38 +85,6 @@
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WAVAX.svg",
     "decimals": 18
   },
-  "0x107d2b7c619202d994a4d044c762dd6f8e0c5326": {
-    "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
-    "name": "Flair Dex Token",
-    "symbol": "FLDX",
-    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg",
-    "decimals": 18,
-    "pool": "0x7fe7277fc15be3cb2cacd4562d46d36a9839957c"
-  },
-  "FLDX": {
-    "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
-    "name": "Flair Dex Token",
-    "symbol": "FLDX",
-    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FLDX.svg",
-    "decimals": 18,
-    "pool": "0x7fe7277fc15be3cb2cacd4562d46d36a9839957c"
-  },
-  "0xe5b584f5f8b2872202433d56299e3867ba246c6e": {
-    "address": "0xE5b584f5f8B2872202433D56299e3867ba246C6E",
-    "name": "Sphere veFLDX Staker",
-    "symbol": "spFLDX",
-    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPFLDX.svg",
-    "decimals": 18,
-    "mirror": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326"
-  },
-  "SPFLDX": {
-    "address": "0xE5b584f5f8B2872202433D56299e3867ba246C6E",
-    "name": "Sphere veFLDX Staker",
-    "symbol": "spFLDX",
-    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPFLDX.svg",
-    "decimals": 18,
-    "mirror": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326"
-  },
   "0x3712871408a829c5cd4e86da1f4ce727efcd28f6": {
     "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
     "name": "Glacier",
@@ -139,7 +107,7 @@
     "symbol": "spGLCR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPGLCR.svg",
     "decimals": 18,
-    "mirror": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6"
+    "pool": "0x59233edaa8b7469f56eac851769ae4a2adcc753e"
   },
   "SPGLCR": {
     "address": "0xE98786B94520772DD9efcC670d72939e184A6198",
@@ -147,7 +115,7 @@
     "symbol": "spGLCR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPGLCR.svg",
     "decimals": 18,
-    "mirror": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6"
+    "pool": "0x59233edaa8b7469f56eac851769ae4a2adcc753e"
   },
   "0x59233edaa8b7469f56eac851769ae4a2adcc753e": {
     "address": "0x59233edaa8b7469f56eac851769ae4a2adcc753e",
