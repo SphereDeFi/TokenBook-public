@@ -91,7 +91,7 @@
     "symbol": "GLCR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GLCR.svg",
     "decimals": 18,
-    "pool": "0xc6e01a1f168a99771a56227b40fd21f1999cf2c5"
+    "pool": "0x2071a39da7450d68e4f4902774203df208860da2"
   },
   "GLCR": {
     "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
@@ -99,7 +99,7 @@
     "symbol": "GLCR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/GLCR.svg",
     "decimals": 18,
-    "pool": "0xc6e01a1f168a99771a56227b40fd21f1999cf2c5"
+    "pool": "0x2071a39da7450d68e4f4902774203df208860da2"
   },
   "0xe98786b94520772dd9efcc670d72939e184a6198": {
     "address": "0xE98786B94520772DD9efcC670d72939e184A6198",
