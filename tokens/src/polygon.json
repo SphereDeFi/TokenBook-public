@@ -116,11 +116,14 @@
     },
     {
       "symbol": "QI",
-      "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+      "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+      "coingeckoId": "qi-dao"
     },
     {
       "symbol": "vQi",
-      "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca"
+      "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca",
+      "mirror": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+      "temp": true
     },
     {
       "symbol": "KOGECOIN",
@@ -132,7 +135,8 @@
     },
     {
       "symbol": "FXS (PoS)",
-      "address": "0x3e121107f6f22da4911079845a470757af4e1a1b"
+      "address": "0x3e121107f6f22da4911079845a470757af4e1a1b",
+      "coingeckoId": "frax-share"
     },
     {
       "symbol": "CLAM",
@@ -140,7 +144,8 @@
     },
     {
       "symbol": "COMFI",
-      "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96"
+      "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96",
+      "pool": "0x67991aa7095573f96b4f84633d3b469ef5a05184"
     },
     {
       "symbol": "PEN",
@@ -148,7 +153,9 @@
     },
     {
       "symbol": "penDYST",
-      "address": "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6"
+      "address": "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6",
+      "mirror": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb",
+      "temp": true
     },
     {
       "symbol": "INSUR",
@@ -164,7 +171,8 @@
     },
     {
       "symbol": "FXS",
-      "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062"
+      "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+      "coingeckoId": "frax-share"
     },
     {
       "symbol": "pMATIC",
@@ -172,7 +180,8 @@
     },
     {
       "symbol": "BIFI",
-      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8"
+      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+      "coingeckoId": "beefy-finance"
     },
     {
       "symbol": "NZDS",
