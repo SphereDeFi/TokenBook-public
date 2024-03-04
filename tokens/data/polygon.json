@@ -394,28 +394,32 @@
     "name": "Qi Dao",
     "symbol": "QI",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/QI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "qi-dao"
   },
   "QI": {
     "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
     "name": "Qi Dao",
     "symbol": "QI",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/QI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "qi-dao"
   },
   "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca": {
     "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca",
     "name": "Vault Qi",
     "symbol": "vQi",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VQI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "mirror": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
   },
   "VQI": {
     "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca",
     "name": "Vault Qi",
     "symbol": "vQi",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VQI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "mirror": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
   },
   "0x13748d548d95d78a3c83fe3f32604b4796cffa23": {
     "address": "0x13748d548d95d78a3c83fe3f32604b4796cffa23",
@@ -450,14 +454,16 @@
     "name": "Frax Share (PoS)",
     "symbol": "FXS (PoS)",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS (POS).svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "frax-share"
   },
   "FXS (POS)": {
     "address": "0x3e121107f6f22da4911079845a470757af4e1a1b",
     "name": "Frax Share (PoS)",
     "symbol": "FXS (PoS)",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS (POS).svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "frax-share"
   },
   "0xc250e9987a032acac293d838726c511e6e1c029d": {
     "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
@@ -478,14 +484,16 @@
     "name": "CompliFi (PoS)",
     "symbol": "COMFI",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/COMFI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "pool": "0x67991aa7095573f96b4f84633d3b469ef5a05184"
   },
   "COMFI": {
     "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96",
     "name": "CompliFi (PoS)",
     "symbol": "COMFI",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/COMFI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "pool": "0x67991aa7095573f96b4f84633d3b469ef5a05184"
   },
   "0x9008d70a5282a936552593f410abcbce2f891a97": {
     "address": "0x9008d70a5282a936552593f410abcbce2f891a97",
@@ -506,14 +514,16 @@
     "name": "penDYST",
     "symbol": "penDYST",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PENDYST.svg",
-    "decimals": 18
+    "decimals": 18,
+    "mirror": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb"
   },
   "PENDYST": {
     "address": "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6",
     "name": "penDYST",
     "symbol": "penDYST",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PENDYST.svg",
-    "decimals": 18
+    "decimals": 18,
+    "mirror": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb"
   },
   "0x8a0e8b4b0903929f47c3ea30973940d4a9702067": {
     "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
@@ -562,14 +572,16 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "frax-share"
   },
   "FXS": {
     "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
     "name": "Frax Share",
     "symbol": "FXS",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "frax-share"
   },
   "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715": {
     "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
@@ -590,14 +602,16 @@
     "name": "beefy.finance",
     "symbol": "BIFI",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BIFI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "beefy-finance"
   },
   "BIFI": {
     "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
     "name": "beefy.finance",
     "symbol": "BIFI",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BIFI.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "beefy-finance"
   },
   "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce": {
     "address": "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce",
