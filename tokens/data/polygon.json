@@ -347,6 +347,272 @@
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BBAWMATIC.svg",
     "decimals": 18
   },
+  "0x255707b70bf90aa112006e1b07b9aea6de021424": {
+    "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+    "name": "TETU Reward Token",
+    "symbol": "TETU",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TETU.svg",
+    "decimals": 18
+  },
+  "TETU": {
+    "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+    "name": "TETU Reward Token",
+    "symbol": "TETU",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TETU.svg",
+    "decimals": 18
+  },
+  "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb": {
+    "address": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb",
+    "name": "Dystopia token",
+    "symbol": "DYST",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DYST.svg",
+    "decimals": 18
+  },
+  "DYST": {
+    "address": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb",
+    "name": "Dystopia token",
+    "symbol": "DYST",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/DYST.svg",
+    "decimals": 18
+  },
+  "0x4cd44ced63d9a6fef595f6ad3f7ced13fceac768": {
+    "address": "0x4cd44ced63d9a6fef595f6ad3f7ced13fceac768",
+    "name": "TETU_ST_QI",
+    "symbol": "tetuQi",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TETUQI.svg",
+    "decimals": 18
+  },
+  "TETUQI": {
+    "address": "0x4cd44ced63d9a6fef595f6ad3f7ced13fceac768",
+    "name": "TETU_ST_QI",
+    "symbol": "tetuQi",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TETUQI.svg",
+    "decimals": 18
+  },
+  "0x580a84c73811e1839f75d86d75d88cca0c241ff4": {
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+    "name": "Qi Dao",
+    "symbol": "QI",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/QI.svg",
+    "decimals": 18
+  },
+  "QI": {
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+    "name": "Qi Dao",
+    "symbol": "QI",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/QI.svg",
+    "decimals": 18
+  },
+  "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca": {
+    "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca",
+    "name": "Vault Qi",
+    "symbol": "vQi",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VQI.svg",
+    "decimals": 18
+  },
+  "VQI": {
+    "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca",
+    "name": "Vault Qi",
+    "symbol": "vQi",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/VQI.svg",
+    "decimals": 18
+  },
+  "0x13748d548d95d78a3c83fe3f32604b4796cffa23": {
+    "address": "0x13748d548d95d78a3c83fe3f32604b4796cffa23",
+    "name": "kogecoin.io",
+    "symbol": "KOGECOIN",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/KOGECOIN.svg",
+    "decimals": 9
+  },
+  "KOGECOIN": {
+    "address": "0x13748d548d95d78a3c83fe3f32604b4796cffa23",
+    "name": "kogecoin.io",
+    "symbol": "KOGECOIN",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/KOGECOIN.svg",
+    "decimals": 9
+  },
+  "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89": {
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FRAX.svg",
+    "decimals": 18
+  },
+  "FRAX": {
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FRAX.svg",
+    "decimals": 18
+  },
+  "0x3e121107f6f22da4911079845a470757af4e1a1b": {
+    "address": "0x3e121107f6f22da4911079845a470757af4e1a1b",
+    "name": "Frax Share (PoS)",
+    "symbol": "FXS (PoS)",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS (POS).svg",
+    "decimals": 18
+  },
+  "FXS (POS)": {
+    "address": "0x3e121107f6f22da4911079845a470757af4e1a1b",
+    "name": "Frax Share (PoS)",
+    "symbol": "FXS (PoS)",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS (POS).svg",
+    "decimals": 18
+  },
+  "0xc250e9987a032acac293d838726c511e6e1c029d": {
+    "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
+    "name": "Otter Clam",
+    "symbol": "CLAM",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/CLAM.svg",
+    "decimals": 9
+  },
+  "CLAM": {
+    "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
+    "name": "Otter Clam",
+    "symbol": "CLAM",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/CLAM.svg",
+    "decimals": 9
+  },
+  "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96": {
+    "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96",
+    "name": "CompliFi (PoS)",
+    "symbol": "COMFI",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/COMFI.svg",
+    "decimals": 18
+  },
+  "COMFI": {
+    "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96",
+    "name": "CompliFi (PoS)",
+    "symbol": "COMFI",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/COMFI.svg",
+    "decimals": 18
+  },
+  "0x9008d70a5282a936552593f410abcbce2f891a97": {
+    "address": "0x9008d70a5282a936552593f410abcbce2f891a97",
+    "name": "PEN",
+    "symbol": "PEN",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PEN.svg",
+    "decimals": 18
+  },
+  "PEN": {
+    "address": "0x9008d70a5282a936552593f410abcbce2f891a97",
+    "name": "PEN",
+    "symbol": "PEN",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PEN.svg",
+    "decimals": 18
+  },
+  "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6": {
+    "address": "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6",
+    "name": "penDYST",
+    "symbol": "penDYST",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PENDYST.svg",
+    "decimals": 18
+  },
+  "PENDYST": {
+    "address": "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6",
+    "name": "penDYST",
+    "symbol": "penDYST",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PENDYST.svg",
+    "decimals": 18
+  },
+  "0x8a0e8b4b0903929f47c3ea30973940d4a9702067": {
+    "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+    "name": "InsurAce (PoS)",
+    "symbol": "INSUR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/INSUR.svg",
+    "decimals": 18
+  },
+  "INSUR": {
+    "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+    "name": "InsurAce (PoS)",
+    "symbol": "INSUR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/INSUR.svg",
+    "decimals": 18
+  },
+  "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756": {
+    "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+    "name": "TrueUSD (PoS)",
+    "symbol": "TUSD",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TUSD.svg",
+    "decimals": 18
+  },
+  "TUSD": {
+    "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+    "name": "TrueUSD (PoS)",
+    "symbol": "TUSD",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/TUSD.svg",
+    "decimals": 18
+  },
+  "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6": {
+    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "name": "Liquid Staking Matic (PoS)",
+    "symbol": "MaticX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/MATICX.svg",
+    "decimals": 18
+  },
+  "MATICX": {
+    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "name": "Liquid Staking Matic (PoS)",
+    "symbol": "MaticX",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/MATICX.svg",
+    "decimals": 18
+  },
+  "0x1a3acf6d19267e2d3e7f898f42803e90c9219062": {
+    "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS.svg",
+    "decimals": 18
+  },
+  "FXS": {
+    "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/FXS.svg",
+    "decimals": 18
+  },
+  "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715": {
+    "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
+    "name": "pMATIC",
+    "symbol": "pMATIC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PMATIC.svg",
+    "decimals": 18
+  },
+  "PMATIC": {
+    "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715",
+    "name": "pMATIC",
+    "symbol": "pMATIC",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PMATIC.svg",
+    "decimals": 18
+  },
+  "0xfbdd194376de19a88118e84e279b977f165d01b8": {
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BIFI.svg",
+    "decimals": 18
+  },
+  "BIFI": {
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/BIFI.svg",
+    "decimals": 18
+  },
+  "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce": {
+    "address": "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce",
+    "name": "NZD Stablecoin (PoS)",
+    "symbol": "NZDS",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/NZDS.svg",
+    "decimals": 6
+  },
+  "NZDS": {
+    "address": "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce",
+    "name": "NZD Stablecoin (PoS)",
+    "symbol": "NZDS",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/NZDS.svg",
+    "decimals": 6
+  },
   "0x1b153352fe65b6cf5105bf285593797892fd083b": {
     "address": "0x1b153352fe65b6cf5105bf285593797892fd083b",
     "name": "Dyson UniV3 USDC/WETH 0.05% Vault",

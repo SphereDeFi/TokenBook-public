@@ -101,6 +101,82 @@
     {
       "symbol": "bbawMATIC",
       "address": "0xE4885Ed2818Cc9E840A25f94F9b2A28169D1AEA7"
+    },
+    {
+      "symbol": "TETU",
+      "address": "0x255707b70bf90aa112006e1b07b9aea6de021424"
+    },
+    {
+      "symbol": "DYST",
+      "address": "0x39ab6574c289c3ae4d88500eec792ab5b947a5eb"
+    },
+    {
+      "symbol": "tetuQi",
+      "address": "0x4cd44ced63d9a6fef595f6ad3f7ced13fceac768"
+    },
+    {
+      "symbol": "QI",
+      "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+    },
+    {
+      "symbol": "vQi",
+      "address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca"
+    },
+    {
+      "symbol": "KOGECOIN",
+      "address": "0x13748d548d95d78a3c83fe3f32604b4796cffa23"
+    },
+    {
+      "symbol": "FRAX",
+      "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89"
+    },
+    {
+      "symbol": "FXS (PoS)",
+      "address": "0x3e121107f6f22da4911079845a470757af4e1a1b"
+    },
+    {
+      "symbol": "CLAM",
+      "address": "0xc250e9987a032acac293d838726c511e6e1c029d"
+    },
+    {
+      "symbol": "COMFI",
+      "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96"
+    },
+    {
+      "symbol": "PEN",
+      "address": "0x9008d70a5282a936552593f410abcbce2f891a97"
+    },
+    {
+      "symbol": "penDYST",
+      "address": "0x5b0522391d0a5a37fd117fe4c43e8876fb4e91e6"
+    },
+    {
+      "symbol": "INSUR",
+      "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067"
+    },
+    {
+      "symbol": "TUSD",
+      "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756"
+    },
+    {
+      "symbol": "MaticX",
+      "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6"
+    },
+    {
+      "symbol": "FXS",
+      "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062"
+    },
+    {
+      "symbol": "pMATIC",
+      "address": "0xa0df47432d9d88bcc040e9ee66ddc7e17a882715"
+    },
+    {
+      "symbol": "BIFI",
+      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8"
+    },
+    {
+      "symbol": "NZDS",
+      "address": "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce"
     }
   ],
   "dysonAddresses": [
