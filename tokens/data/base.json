@@ -114,5 +114,19 @@
     "symbol": "USD+",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg",
     "decimals": 6
+  },
+  "0x940181a94a35a4569e4529a3cdfb74e38fd98631": {
+    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "name": "Aerodrome",
+    "symbol": "AERO",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AERO.svg",
+    "decimals": 18
+  },
+  "AERO": {
+    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "name": "Aerodrome",
+    "symbol": "AERO",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AERO.svg",
+    "decimals": 18
   }
 }

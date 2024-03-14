@@ -37,6 +37,10 @@
     {
       "symbol": "USD+",
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376"
+    },
+    {
+      "symbol": "AERO",
+      "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631"
     }
   ],
   "dysonAddresses": []
