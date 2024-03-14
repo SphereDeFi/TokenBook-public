@@ -50,8 +50,18 @@
       "composition": ["DOLA", "USDC"]
     },
     {
+      "address": "0xf213F2D02837012dC0236cC105061e121bB03e37",
+      "symbol": "sAMM-DOLA/USDC",
+      "composition": ["DOLA", "USDC"]
+    },
+    {
       "address": "0xaCd84F7D98AdE6c5d47c698e0B2Fa9c4eEAB3dA7",
       "symbol": "Dyson-Aero-DOLAUSDBC-SLP-Vault",
+      "composition": ["DOLA", "USDbC"]
+    },
+    {
+      "address": "0x0B25c51637c43decd6CC1C1e3da4518D54ddb528",
+      "symbol": "sAMM-DOLA/USDbC",
       "composition": ["DOLA", "USDbC"]
     },
     {
@@ -60,8 +70,18 @@
       "composition": ["hyUSD", "eUSD"]
     },
     {
+      "address": "0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3",
+      "symbol": "vAMM-hyUSD/eUSD",
+      "composition": ["hyUSD", "eUSD"]
+    },
+    {
       "address": "0xf77EE87364feb77fd85a5087742cb0f1A70db002",
       "symbol": "Dyson-Aero-USDC+USD+-SLP-Vault",
+      "composition": ["USDC+", "USD+"]
+    },
+    {
+      "address": "0xE96c788E66a97Cf455f46C5b27786191fD3bC50B",
+      "symbol": "sAMM-USDC+/USD+",
       "composition": ["USDC+", "USD+"]
     },
     {
@@ -70,8 +90,18 @@
       "composition": ["eUSD", "USDC"]
     },
     {
+      "address": "0x7A034374C89C463DD65D8C9BCfe63BcBCED41f4F",
+      "symbol": "sAMM-eUSD/USDC",
+      "composition": ["eUSD", "USDC"]
+    },
+    {
       "address": "0x3226C6d8D2B6e92b710BA73620Ff3FebC29BE9B9",
       "symbol": "Dyson-Aero-STARUSDbC-SLP-Vault",
+      "composition": ["STAR", "USDbC"]
+    },
+    {
+      "address": "0x7a823ff83d2A87AE7570a9934B0dC8B87Be9C14A",
+      "symbol": "sAMM-STAR/USDbC",
       "composition": ["STAR", "USDbC"]
     }
   ]
