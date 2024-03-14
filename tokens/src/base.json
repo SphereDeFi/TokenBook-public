@@ -18,7 +18,8 @@
     },
     {
       "symbol": "hyUSD",
-      "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e"
+      "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
+      "coingeckoId": "high-yield-usd-base"
     },
     {
       "symbol": "eUSD",
@@ -26,7 +27,8 @@
     },
     {
       "symbol": "USDC+",
-      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f"
+      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+      "coingeckoId": "usdc-plus-overnight"
     },
     {
       "symbol": "USD+",
