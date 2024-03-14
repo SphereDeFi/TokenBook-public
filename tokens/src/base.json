@@ -43,5 +43,36 @@
       "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631"
     }
   ],
-  "dysonAddresses": []
+  "dysonAddresses": [
+    {
+      "address": "0x08DF3DD39c4BCE10950CA61C058FA5E6363c6cAa",
+      "symbol": "Dyson-Aero-DOLAUSDC-SLP-Vault",
+      "composition": ["DOLA", "USDC"]
+    },
+    {
+      "address": "0xaCd84F7D98AdE6c5d47c698e0B2Fa9c4eEAB3dA7",
+      "symbol": "Dyson-Aero-DOLAUSDBC-SLP-Vault",
+      "composition": ["DOLA", "USDbC"]
+    },
+    {
+      "address": "0xbfDb6140a85d669B136579E95e7673f27Ef41BB0",
+      "symbol": "Dyson-Aero-hyUSDeUSD-VLP-Vault",
+      "composition": ["hyUSD", "eUSD"]
+    },
+    {
+      "address": "0xf77EE87364feb77fd85a5087742cb0f1A70db002",
+      "symbol": "Dyson-Aero-USDC+USD+-SLP-Vault",
+      "composition": ["USDC+", "USD+"]
+    },
+    {
+      "address": "0x0DEd65F164b50249496903873e950814e439DFf7",
+      "symbol": "Dyson-Aero-USDCeUSD-SLP-Vault",
+      "composition": ["eUSD", "USDC"]
+    },
+    {
+      "address": "0x3226C6d8D2B6e92b710BA73620Ff3FebC29BE9B9",
+      "symbol": "Dyson-Aero-STARUSDbC-SLP-Vault",
+      "composition": ["STAR", "USDbC"]
+    }
+  ]
 }
