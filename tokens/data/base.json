@@ -128,5 +128,117 @@
     "symbol": "AERO",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AERO.svg",
     "decimals": 18
+  },
+  "0x08df3dd39c4bce10950ca61c058fa5e6363c6caa": {
+    "address": "0x08DF3DD39c4BCE10950CA61C058FA5E6363c6cAa",
+    "name": "Dyson Aerodrome DOLA/USDC SLP Vault",
+    "symbol": "Dyson-Aero-DOLAUSDC-SLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xf213f2d02837012dc0236cc105061e121bb03e37": {
+    "address": "0xf213F2D02837012dC0236cC105061e121bB03e37",
+    "name": "Stable AMM - DOLA/USDC",
+    "symbol": "sAMM-DOLA/USDC",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xacd84f7d98ade6c5d47c698e0b2fa9c4eeab3da7": {
+    "address": "0xaCd84F7D98AdE6c5d47c698e0B2Fa9c4eEAB3dA7",
+    "name": "Dyson Aerodrome DOLA/USDbC SLP Vault",
+    "symbol": "Dyson-Aero-DOLAUSDBC-SLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x0b25c51637c43decd6cc1c1e3da4518d54ddb528": {
+    "address": "0x0B25c51637c43decd6CC1C1e3da4518D54ddb528",
+    "name": "Stable AMM - DOLA/USDbC",
+    "symbol": "sAMM-DOLA/USDbC",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xbfdb6140a85d669b136579e95e7673f27ef41bb0": {
+    "address": "0xbfDb6140a85d669B136579E95e7673f27Ef41BB0",
+    "name": "Dyson Aerodrome hyUSD/eUSD VLP Vault",
+    "symbol": "Dyson-Aero-hyUSDeUSD-VLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xb5e331615fdba7df49e05cdeaceb14acdd5091c3": {
+    "address": "0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3",
+    "name": "Volatile AMM - hyUSD/eUSD",
+    "symbol": "vAMM-hyUSD/eUSD",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xf77ee87364feb77fd85a5087742cb0f1a70db002": {
+    "address": "0xf77EE87364feb77fd85a5087742cb0f1A70db002",
+    "name": "Dyson Aerodrome USDC+/USD+ SLP Vault",
+    "symbol": "Dyson-Aero-USDC+USD+-SLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xe96c788e66a97cf455f46c5b27786191fd3bc50b": {
+    "address": "0xE96c788E66a97Cf455f46C5b27786191fD3bC50B",
+    "name": "Stable AMM - USDC+/USD+",
+    "symbol": "sAMM-USDC+/USD+",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x0ded65f164b50249496903873e950814e439dff7": {
+    "address": "0x0DEd65F164b50249496903873e950814e439DFf7",
+    "name": "Dyson Aerodrome USDC/eUSD SLP Vault",
+    "symbol": "Dyson-Aero-USDCeUSD-SLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x7a034374c89c463dd65d8c9bcfe63bcbced41f4f": {
+    "address": "0x7A034374C89C463DD65D8C9BCfe63BcBCED41f4F",
+    "name": "Stable AMM - eUSD/USDC",
+    "symbol": "sAMM-eUSD/USDC",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x3226c6d8d2b6e92b710ba73620ff3febc29be9b9": {
+    "address": "0x3226C6d8D2B6e92b710BA73620Ff3FebC29BE9B9",
+    "name": "Dyson Aerodrome STAR/USDbC SLP Vault",
+    "symbol": "Dyson-Aero-STARUSDbC-SLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x7a823ff83d2a87ae7570a9934b0dc8b87be9c14a": {
+    "address": "0x7a823ff83d2A87AE7570a9934B0dC8B87Be9C14A",
+    "name": "Stable AMM - STAR/USDbC",
+    "symbol": "sAMM-STAR/USDbC",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xda94c1225fdced8cf74b0468e41e6b0d49d53b64": {
+    "address": "0xda94C1225fdcED8cf74b0468E41E6b0d49D53b64",
+    "name": "Dyson Aerodrome USDC/STAR SLP Vault",
+    "symbol": "Dyson-Aero-USDCSTAR-SLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xf45f6cdbcd0d2d4bf4d9758b032a66a2cf4e55c8": {
+    "address": "0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8",
+    "name": "Stable AMM - USDC/STAR",
+    "symbol": "sAMM-USDC/STAR",
+    "image": "",
+    "decimals": 18,
+    "lp": true
   }
 }

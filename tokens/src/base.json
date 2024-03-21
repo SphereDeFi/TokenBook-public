@@ -110,7 +110,7 @@
       "composition": ["USDC", "STAR"]
     },
     {
-      "address": "0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8 ",
+      "address": "0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8",
       "symbol": "sAMM-USDC/STAR",
       "composition": ["USDC", "STAR"]
     }
