@@ -103,6 +103,16 @@
       "address": "0x7a823ff83d2A87AE7570a9934B0dC8B87Be9C14A",
       "symbol": "sAMM-STAR/USDbC",
       "composition": ["STAR", "USDbC"]
+    },
+    {
+      "address": "0xda94C1225fdcED8cf74b0468E41E6b0d49D53b64",
+      "symbol": "Dyson-Aero-USDCSTAR-SLP-Vault",
+      "composition": ["USDC", "STAR"]
+    },
+    {
+      "address": "0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8 ",
+      "symbol": "sAMM-USDC/STAR",
+      "composition": ["USDC", "STAR"]
     }
   ]
 }

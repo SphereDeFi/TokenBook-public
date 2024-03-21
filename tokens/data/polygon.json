@@ -243,14 +243,14 @@
   },
   "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4": {
     "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
-    "name": "agEUR",
+    "name": "EURA (previously agEUR)",
     "symbol": "agEUR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AGEUR.svg",
     "decimals": 18
   },
   "AGEUR": {
     "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
-    "name": "agEUR",
+    "name": "EURA (previously agEUR)",
     "symbol": "agEUR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AGEUR.svg",
     "decimals": 18
