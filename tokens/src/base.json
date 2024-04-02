@@ -75,12 +75,12 @@
       "composition": ["hyUSD", "eUSD"]
     },
     {
-      "address": "0xf77EE87364feb77fd85a5087742cb0f1A70db002",
+      "address": "0x72121a6637de82c0778580d2ab578ae4cd807840",
       "symbol": "Dyson-Aero-USDC+USD+-SLP-Vault",
       "composition": ["USDC+", "USD+"]
     },
     {
-      "address": "0x72121a6637de82c0778580d2ab578ae4cd807840",
+      "address": "0xe96c788e66a97cf455f46c5b27786191fd3bc50b",
       "symbol": "sAMM-USDC+/USD+",
       "composition": ["USDC+", "USD+"]
     },

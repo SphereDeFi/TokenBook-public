@@ -191,17 +191,17 @@
     "decimals": 18,
     "lp": true
   },
-  "0xf77ee87364feb77fd85a5087742cb0f1a70db002": {
-    "address": "0xf77EE87364feb77fd85a5087742cb0f1A70db002",
+  "0x72121a6637de82c0778580d2ab578ae4cd807840": {
+    "address": "0x72121a6637de82c0778580d2ab578ae4cd807840",
     "name": "Dyson Aerodrome USDC+/USD+ SLP Vault",
     "symbol": "Dyson-Aero-USDC+USD+-SLP-Vault",
     "image": "",
     "decimals": 18,
     "lp": true
   },
-  "0x72121a6637de82c0778580d2ab578ae4cd807840": {
-    "address": "0x72121a6637de82c0778580d2ab578ae4cd807840",
-    "name": "Dyson Aerodrome USDC+/USD+ SLP Vault",
+  "0xe96c788e66a97cf455f46c5b27786191fd3bc50b": {
+    "address": "0xe96c788e66a97cf455f46c5b27786191fd3bc50b",
+    "name": "Stable AMM - USDC+/USD+",
     "symbol": "sAMM-USDC+/USD+",
     "image": "",
     "decimals": 18,
