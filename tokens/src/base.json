@@ -35,8 +35,8 @@
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376"
     },
     {
-      "symbol": "USD+",
-      "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376"
+      "symbol": "OVN",
+      "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396"
     },
     {
       "symbol": "AERO",
@@ -113,6 +113,17 @@
       "address": "0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8",
       "symbol": "sAMM-USDC/STAR",
       "composition": ["USDC", "STAR"]
+    },
+
+    {
+      "address": "0xf63291375d3eb7014fbe658f256c79163dc308ab",
+      "symbol": "Dyson-Aero-OVNUSD+-VLP-Vault ",
+      "composition": ["OVN", "USD+"]
+    },
+    {
+      "address": "0x61366a4e6b1db1b85dd701f2f4bfa275ef271197",
+      "symbol": "vAMM-OVN/USD+",
+      "composition": ["OVN", "USD+"]
     }
   ]
 }

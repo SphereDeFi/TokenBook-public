@@ -115,6 +115,20 @@
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USD+.svg",
     "decimals": 6
   },
+  "0xa3d1a8deb97b111454b294e2324efad13a9d8396": {
+    "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+    "name": "OVN",
+    "symbol": "OVN",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/OVN.svg",
+    "decimals": 18
+  },
+  "OVN": {
+    "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+    "name": "OVN",
+    "symbol": "OVN",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/OVN.svg",
+    "decimals": 18
+  },
   "0x940181a94a35a4569e4529a3cdfb74e38fd98631": {
     "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
     "name": "Aerodrome",
@@ -237,6 +251,22 @@
     "address": "0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8",
     "name": "Stable AMM - USDC/STAR",
     "symbol": "sAMM-USDC/STAR",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xf63291375d3eb7014fbe658f256c79163dc308ab": {
+    "address": "0xf63291375d3eb7014fbe658f256c79163dc308ab",
+    "name": "Dyson Aerodrome OVN/USD+ VLP Vault",
+    "symbol": "Dyson-Aero-OVNUSD+-VLP-Vault ",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x61366a4e6b1db1b85dd701f2f4bfa275ef271197": {
+    "address": "0x61366a4e6b1db1b85dd701f2f4bfa275ef271197",
+    "name": "Volatile AMM - OVN/USD+",
+    "symbol": "vAMM-OVN/USD+",
     "image": "",
     "decimals": 18,
     "lp": true
