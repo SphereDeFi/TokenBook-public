@@ -143,6 +143,34 @@
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/AERO.svg",
     "decimals": 18
   },
+  "0x0000206329b97db379d5e1bf586bbdb969c63274": {
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDA.svg",
+    "decimals": 18
+  },
+  "USDA": {
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "name": "USDA",
+    "symbol": "USDA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDA.svg",
+    "decimals": 18
+  },
+  "0xa61beb4a3d02decb01039e378237032b351125b4": {
+    "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+    "name": "EURA (previously agEUR)",
+    "symbol": "EURA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/EURA.svg",
+    "decimals": 18
+  },
+  "EURA": {
+    "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+    "name": "EURA (previously agEUR)",
+    "symbol": "EURA",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/EURA.svg",
+    "decimals": 18
+  },
   "0x08df3dd39c4bce10950ca61c058fa5e6363c6caa": {
     "address": "0x08DF3DD39c4BCE10950CA61C058FA5E6363c6cAa",
     "name": "Dyson Aerodrome DOLA/USDC SLP Vault",
@@ -267,6 +295,22 @@
     "address": "0x61366a4e6b1db1b85dd701f2f4bfa275ef271197",
     "name": "Volatile AMM - OVN/USD+",
     "symbol": "vAMM-OVN/USD+",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xb8a2af04101472e3747b7aa742fcf38eff43f68c": {
+    "address": "0xb8A2aF04101472E3747B7aa742fCF38EfF43f68C",
+    "name": "Dyson Aerodrome USDA/EURA VLP Vault",
+    "symbol": "Dyson-Aero-USDAEURA-VLP-Vault",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0x79ef3ecda775860a2351ae2a7b80c4d80ba47f72": {
+    "address": "0x79eF3eCDa775860a2351ae2A7B80C4d80ba47F72",
+    "name": "Volatile AMM - USDA/EURA",
+    "symbol": "vAMM-USDA/EURA ",
     "image": "",
     "decimals": 18,
     "lp": true
