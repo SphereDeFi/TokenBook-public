@@ -148,28 +148,32 @@
     "name": "USDA",
     "symbol": "USDA",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDA.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "angle-usd"
   },
   "USDA": {
     "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
     "name": "USDA",
     "symbol": "USDA",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/USDA.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "angle-usd"
   },
   "0xa61beb4a3d02decb01039e378237032b351125b4": {
     "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
     "name": "EURA (previously agEUR)",
     "symbol": "EURA",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/EURA.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "ageur"
   },
   "EURA": {
     "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
     "name": "EURA (previously agEUR)",
     "symbol": "EURA",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/EURA.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "ageur"
   },
   "0x08df3dd39c4bce10950ca61c058fa5e6363c6caa": {
     "address": "0x08DF3DD39c4BCE10950CA61C058FA5E6363c6cAa",

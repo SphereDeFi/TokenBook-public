@@ -44,11 +44,13 @@
     },
     {
       "symbol": "USDA",
-      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274"
+      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+      "coingeckoId": "angle-usd"
     },
     {
       "symbol": "EURA",
-      "address": "0xA61BeB4A3d02decb01039e378237032B351125B4"
+      "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+      "coingeckoId": "ageur"
     }
   ],
   "dysonAddresses": [
