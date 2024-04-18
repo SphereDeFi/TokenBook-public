@@ -141,6 +141,17 @@
       "address": "0x79eF3eCDa775860a2351ae2A7B80C4d80ba47F72",
       "symbol": "vAMM-USDA/EURA ",
       "composition": ["USDA", "EURA"]
+    },
+
+    {
+      "address": "0xc48A6867923ca630740F542649E5f7f070FB93B2",
+      "symbol": "Dyson-Aero-USDAUSDC-SLP-Vault ",
+      "composition": ["USDA", "USDC"]
+    },
+    {
+      "address": "0xE503312E932a3647AeAC8b00A8Bd1d04E6A73C08",
+      "symbol": "sAMM-USDA/USDC",
+      "composition": ["USDA", "USDC"]
     }
   ]
 }

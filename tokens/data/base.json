@@ -310,5 +310,21 @@
     "image": "",
     "decimals": 18,
     "lp": true
+  },
+  "0xc48a6867923ca630740f542649e5f7f070fb93b2": {
+    "address": "0xc48A6867923ca630740F542649E5f7f070FB93B2",
+    "name": "Dyson Aerodrome USDA/USDC SLP Vault",
+    "symbol": "Dyson-Aero-USDAUSDC-SLP-Vault ",
+    "image": "",
+    "decimals": 18,
+    "lp": true
+  },
+  "0xe503312e932a3647aeac8b00a8bd1d04e6a73c08": {
+    "address": "0xE503312E932a3647AeAC8b00A8Bd1d04E6A73C08",
+    "name": "Stable AMM - USDA/USDC",
+    "symbol": "sAMM-USDA/USDC",
+    "image": "",
+    "decimals": 18,
+    "lp": true
   }
 }
