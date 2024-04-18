@@ -88,14 +88,16 @@
     "name": "STAR",
     "symbol": "STAR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "preon-star"
   },
   "STAR": {
     "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
     "name": "STAR",
     "symbol": "STAR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "preon-star"
   },
   "0x5979d7b546e38e414f7e9822514be443a4800529": {
     "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
@@ -172,16 +174,14 @@
     "name": "Sphere veSTR Staker",
     "symbol": "spSTR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg",
-    "decimals": 18,
-    "pool": "0xc64d1b8eb2672266df3f09f6f4c166f8e4965a1a"
+    "decimals": 18
   },
   "SPSTR": {
     "address": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
     "name": "Sphere veSTR Staker",
     "symbol": "spSTR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSTR.svg",
-    "decimals": 18,
-    "pool": "0xc64d1b8eb2672266df3f09f6f4c166f8e4965a1a"
+    "decimals": 18
   },
   "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
@@ -223,32 +223,28 @@
     "name": "Sphere veCHR Staker",
     "symbol": "spCHR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg",
-    "decimals": 18,
-    "pool": "0x4484ce1f30bbce0e5f57f2d11037a36a8d508a74"
+    "decimals": 18
   },
   "SPCHR": {
     "address": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
     "name": "Sphere veCHR Staker",
     "symbol": "spCHR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPCHR.svg",
-    "decimals": 18,
-    "pool": "0x4484ce1f30bbce0e5f57f2d11037a36a8d508a74"
+    "decimals": 18
   },
   "0xad435674417520aeeed6b504bbe654d4f556182f": {
     "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JEUR.svg",
-    "decimals": 18,
-    "coingeckoId": "jarvis-synthetic-euro"
+    "decimals": 18
   },
   "JEUR": {
     "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/JEUR.svg",
-    "decimals": 18,
-    "coingeckoId": "jarvis-synthetic-euro"
+    "decimals": 18
   },
   "0x463913d3a3d3d291667d53b8325c598eb88d3b0e": {
     "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
@@ -269,32 +265,28 @@
     "name": "Sphere veSLIZ Staker",
     "symbol": "spSLIZ",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg",
-    "decimals": 18,
-    "pool": "0x6efef13c68959cea3293669f9294d826ccc31058"
+    "decimals": 18
   },
   "SPSLIZ": {
     "address": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
     "name": "Sphere veSLIZ Staker",
     "symbol": "spSLIZ",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPSLIZ.svg",
-    "decimals": 18,
-    "pool": "0x6efef13c68959cea3293669f9294d826ccc31058"
+    "decimals": 18
   },
   "0x813ffcc4af3e810e6b447235cc88a02f00454453": {
     "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
     "name": "ETS Gamma",
     "symbol": "ETS GAMMA",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETS GAMMA.svg",
-    "decimals": 6,
-    "pool": "0x97e5f60fa17816011039b908c19fa4b43de73731"
+    "decimals": 6
   },
   "ETS GAMMA": {
     "address": "0x813ffcc4af3e810e6b447235cc88a02f00454453",
     "name": "ETS Gamma",
     "symbol": "ETS GAMMA",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/ETS GAMMA.svg",
-    "decimals": 6,
-    "pool": "0x97e5f60fa17816011039b908c19fa4b43de73731"
+    "decimals": 6
   },
   "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7": {
     "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",

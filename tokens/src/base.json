@@ -18,8 +18,7 @@
     },
     {
       "symbol": "hyUSD",
-      "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
-      "coingeckoId": "high-yield-usd"
+      "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e"
     },
     {
       "symbol": "eUSD",
@@ -27,8 +26,7 @@
     },
     {
       "symbol": "USDC+",
-      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
-      "coingeckoId": "usdc-overnight-fi"
+      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f"
     },
     {
       "symbol": "USD+",
@@ -44,13 +42,11 @@
     },
     {
       "symbol": "USDA",
-      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-      "coingeckoId": "angle-usd"
+      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274"
     },
     {
       "symbol": "EURA",
-      "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
-      "coingeckoId": "ageur"
+      "address": "0xA61BeB4A3d02decb01039e378237032B351125B4"
     }
   ],
   "dysonAddresses": [

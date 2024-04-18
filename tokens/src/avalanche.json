@@ -27,13 +27,11 @@
     },
     {
       "symbol": "GLCR",
-      "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
-      "pool": "0x2071a39da7450d68e4f4902774203df208860da2"
+      "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6"
     },
     {
       "symbol": "spGLCR",
-      "address": "0xE98786B94520772DD9efcC670d72939e184A6198",
-      "pool": "0x59233edaa8b7469f56eac851769ae4a2adcc753e"
+      "address": "0xE98786B94520772DD9efcC670d72939e184A6198"
     }
   ],
   "dysonAddresses": [
