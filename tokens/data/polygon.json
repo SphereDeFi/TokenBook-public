@@ -4,14 +4,18 @@
     "name": "Sphere Finance",
     "symbol": "SPHERE",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPHERE.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "sphere-finance",
+    "overrideApi": true
   },
   "SPHERE": {
     "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7",
     "name": "Sphere Finance",
     "symbol": "SPHERE",
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/SPHERE.svg",
-    "decimals": 18
+    "decimals": 18,
+    "coingeckoId": "sphere-finance",
+    "overrideApi": true
   },
   "0x4af613f297ab00361d516454e5e46bc895889653": {
     "address": "0x4Af613f297ab00361D516454E5E46bc895889653",

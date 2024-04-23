@@ -2,7 +2,9 @@
   "tokensAddresses": [
     {
       "symbol": "SPHERE",
-      "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7"
+      "address": "0x62F594339830b90AE4C084aE7D223fFAFd9658A7",
+      "coingeckoId": "sphere-finance",
+      "overrideApi": true
     },
     {
       "symbol": "ylSPHERE",
