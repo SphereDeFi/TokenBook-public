@@ -1,4 +1,18 @@
 {
+  "0x4200000000000000000000000000000000000006": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
+  "WETH": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/WETH.svg",
+    "decimals": 18
+  },
   "0xc19669a405067927865b40ea045a2baabbbe57f5": {
     "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
     "name": "STAR",

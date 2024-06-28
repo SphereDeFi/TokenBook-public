@@ -1,6 +1,10 @@
 {
   "tokensAddresses": [
     {
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    {
       "symbol": "STAR",
       "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5"
     },
