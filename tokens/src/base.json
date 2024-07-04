@@ -51,6 +51,10 @@
     {
       "symbol": "EURA",
       "address": "0xA61BeB4A3d02decb01039e378237032B351125B4"
+    },
+    {
+      "symbol": "PREON",
+      "address": "0x135f9B3D5DEC9D73C042Cf380AdFFF95f4Fe9E35"
     }
   ],
   "dysonAddresses": [

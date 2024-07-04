@@ -1,0 +1,30 @@
+{
+  "0xc19669a405067927865b40ea045a2baabbbe57f5": {
+    "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+    "name": "STAR",
+    "symbol": "STAR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg",
+    "decimals": 18
+  },
+  "STAR": {
+    "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+    "name": "STAR",
+    "symbol": "STAR",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/STAR.svg",
+    "decimals": 18
+  },
+  "0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35": {
+    "address": "0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35",
+    "name": "PREON",
+    "symbol": "PREON",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PREON.svg",
+    "decimals": 18
+  },
+  "PREON": {
+    "address": "0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35",
+    "name": "PREON",
+    "symbol": "PREON",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PREON.svg",
+    "decimals": 18
+  }
+}

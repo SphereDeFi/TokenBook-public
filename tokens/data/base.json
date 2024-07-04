@@ -181,6 +181,20 @@
     "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/EURA.svg",
     "decimals": 18
   },
+  "0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35": {
+    "address": "0x135f9B3D5DEC9D73C042Cf380AdFFF95f4Fe9E35",
+    "name": "PREON",
+    "symbol": "PREON",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PREON.svg",
+    "decimals": 18
+  },
+  "PREON": {
+    "address": "0x135f9B3D5DEC9D73C042Cf380AdFFF95f4Fe9E35",
+    "name": "PREON",
+    "symbol": "PREON",
+    "image": "https://raw.githubusercontent.com/SphereDeFi/TokenBook-public/main/tokens/images/PREON.svg",
+    "decimals": 18
+  },
   "0x08df3dd39c4bce10950ca61c058fa5e6363c6caa": {
     "address": "0x08DF3DD39c4BCE10950CA61C058FA5E6363c6cAa",
     "name": "Dyson Aerodrome DOLA/USDC SLP Vault",
