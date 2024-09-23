@@ -28,7 +28,7 @@
       "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
     },
     {
-      "symbol": "WMATIC",
+      "symbol": "WPOL",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "coingeckoId": "wmatic",
       "overrideApi": true
@@ -196,77 +196,121 @@
     {
       "address": "0x1b153352fe65b6cf5105bf285593797892fd083b",
       "symbol": "maticDysonUniV3USDCWETH5BpsVault",
-      "composition": ["USDC", "WETH"]
+      "composition": [
+        "USDC",
+        "WETH"
+      ]
     },
     {
       "address": "0x233aD09A43024e658A6Fb3a93C15dFA2444549Ee",
       "symbol": "maticDysonUniV3USDCWETH30BpsVault",
-      "composition": ["USDC", "WETH"]
+      "composition": [
+        "USDC",
+        "WETH"
+      ]
     },
     {
       "address": "0x1576B3b53CcB4F0bB3f7A3F4276b0De641a7Adb0",
       "symbol": "maticDysonUniV3USDCWETH5BpsVault",
-      "composition": ["WMATIC", "USDC"]
+      "composition": [
+        "WMATIC",
+        "USDC"
+      ]
     },
     {
       "address": "0xE4854e03f69f754f63086E6454BC89C173F3aC2C",
       "symbol": "maticDysonUniV3WMATICUSDC30BpsVault",
-      "composition": ["WMATIC", "USDC"]
+      "composition": [
+        "WMATIC",
+        "USDC"
+      ]
     },
     {
       "address": "0x6Df6355DB123C83fD33c0A3AAc790730E5d8bE59",
       "symbol": "maticDysonUniV3WMATICWETH5BpsVault",
-      "composition": ["WMATIC", "WETH"]
+      "composition": [
+        "WMATIC",
+        "WETH"
+      ]
     },
     {
       "address": "0x07A10f6E67e63A33bf62415331def452080D86Bf",
       "symbol": "maticDysonUniV3WMATICUSDT5BpsVault",
-      "composition": ["WMATIC", "USDT"]
+      "composition": [
+        "WMATIC",
+        "USDT"
+      ]
     },
     {
       "address": "0xDc6f84429fE8Cf4b7c879123Faf5E0b8d9e0f490",
       "symbol": "maticDysonUniV3WBTCWETH5BpsVault",
-      "composition": ["WBTC", "WETH"]
+      "composition": [
+        "WBTC",
+        "WETH"
+      ]
     },
     {
       "address": "0x46088957EEc2b4ab7314B24493a22c8ee1C66187",
       "symbol": "maticDysonUniV3WMATICCRV30BpsVault",
-      "composition": ["WMATIC", "CRV"]
+      "composition": [
+        "WMATIC",
+        "CRV"
+      ]
     },
     {
       "address": "0x0f82F88EE6f017F46CcAE0690a2e62B7ddAC730f",
       "symbol": "maticDysonUniV3USDCUSDT1BpsVault",
-      "composition": ["USDC", "USDT"]
+      "composition": [
+        "USDC",
+        "USDT"
+      ]
     },
     {
       "address": "0x035001DdC2f6DcF2006565Af31709f8613a7D70C",
       "symbol": "maticDysonGNSStakingVault",
-      "composition": ["GNS"]
+      "composition": [
+        "GNS"
+      ]
     },
     {
       "address": "0x36a7a1ee03dd9f5ee9363f41ae05bd15a8f1b85f",
       "symbol": "sAMM-spSATIN/vAMM-CASH/SATIN",
-      "composition": ["spSATIN", "SATIN"]
+      "composition": [
+        "spSATIN",
+        "SATIN"
+      ]
     },
     {
       "address": "0xcac1c87Ca48C860De5fD71431d002a0c06b6Ede4",
       "symbol": "DysonMaticSatinSpSatinSatinLPVault",
-      "composition": ["spSATIN", "SATIN"]
+      "composition": [
+        "spSATIN",
+        "SATIN"
+      ]
     },
     {
       "address": "0x216690738aac4aa0c4770253ca26a28f0115c595",
       "symbol": "stMATIC-bb-a-WMATIC-BPT",
-      "composition": ["stMATIC", "bbaWMATIC"]
+      "composition": [
+        "stMATIC",
+        "bbaWMATIC"
+      ]
     },
     {
       "address": "0x18661c2527220abe021f5b52351d5c4210e0e2c6",
       "symbol": "Dyson Balancer stMATIC-bbaWMATIC Vault",
-      "composition": ["stMATIC", "bbaWMATIC"]
+      "composition": [
+        "stMATIC",
+        "bbaWMATIC"
+      ]
     },
     {
       "address": "0xdc342a4c1108a2a1f34a3036a40e04627b923067",
       "symbol": "vAMM-CASH/SATIN",
-      "composition": ["CASH", "SATIN"]
+      "composition": [
+        "CASH",
+        "SATIN"
+      ]
     }
   ]
 }
